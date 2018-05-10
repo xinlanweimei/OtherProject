@@ -1,0 +1,181 @@
+[INFO][2018-05-08 19:59:35,196][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormFieldDao }
+[INFO][2018-05-08 19:59:35,198][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormVersionDao }
+[INFO][2018-05-08 19:59:35,198][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.upload.CgFormUploadDao }
+[INFO][2018-05-08 19:59:35,198][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgreport.dao.core.CgReportDao }
+[INFO][2018-05-08 19:59:35,198][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.demo.dao.test.JeecgMinidaoDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.JeecgDictDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.repair.RepairDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsAdDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsArticleDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsMenuDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.guanjia.message.dao.TextTemplateDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-05-08 19:59:35,223][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.actInvite.dao.WxActInviteDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.auth.dao.JwSystemAuthDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderCustomDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderMainDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderProductDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAccountDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAgentDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxMenuDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDefaultDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGroupDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzentityDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzuserinfoDao }
+[INFO][2018-05-08 19:59:35,224][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxLocationDao }
+[INFO][2018-05-08 19:59:35,225][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxMessagelogDao }
+[INFO][2018-05-08 19:59:35,225][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxReceivetextDao }
+[INFO][2018-05-08 19:59:35,230][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.conversation.dao.QywxConversationDao }
+[INFO][2018-05-08 19:59:35,230][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewsitemDao }
+[INFO][2018-05-08 19:59:35,230][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewstemplateDao }
+[INFO][2018-05-08 19:59:35,230][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxTexttemplateDao }
+[INFO][2018-05-08 19:59:35,231][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayAccountDao }
+[INFO][2018-05-08 19:59:35,231][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayMenuDao }
+[INFO][2018-05-08 19:59:35,231][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDao }
+[INFO][2018-05-08 19:59:35,231][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDefaultDao }
+[INFO][2018-05-08 19:59:35,231][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzentityDao }
+[INFO][2018-05-08 19:59:35,241][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzuserinfoDao }
+[INFO][2018-05-08 19:59:35,241][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayMessagelogDao }
+[INFO][2018-05-08 19:59:35,241][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextContentDao }
+[INFO][2018-05-08 19:59:35,241][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextDao }
+[INFO][2018-05-08 19:59:35,241][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewsitemDao }
+[INFO][2018-05-08 19:59:35,242][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewstemplateDao }
+[INFO][2018-05-08 19:59:35,242][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayTexttemplateDao }
+[ERROR][2018-05-08 19:59:37,363][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-05-08 19:59:37,441][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-05-08 19:59:41,406][org.hibernate.id.UUIDHexGenerator]HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+[WARN][2018-05-08 19:59:43,323][net.sf.ehcache.distribution.RMICacheManagerPeerListener]Explicitly setting the listener hostname to 'localhost' is not recommended. It will only work if all CacheManager peers are on the same machine.
+[INFO][2018-05-08 19:59:50,371][org.quartz.core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[INFO][2018-05-08 19:59:50,371][org.quartz.core.QuartzScheduler]Quartz Scheduler v.1.6.2 created.
+[INFO][2018-05-08 19:59:50,373][org.quartz.simpl.RAMJobStore]RAMJobStore initialized.
+[INFO][2018-05-08 19:59:50,373][org.quartz.impl.StdSchedulerFactory]Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance.
+[INFO][2018-05-08 19:59:50,373][org.quartz.impl.StdSchedulerFactory]Quartz scheduler version: 1.6.2
+[INFO][2018-05-08 19:59:50,377][org.quartz.core.QuartzScheduler]JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@4080b768
+[INFO][2018-05-08 19:59:53,223][org.jeecgframework.core.timer.DataBaseSchedulerFactoryBean]Starting Quartz Scheduler now
+[INFO][2018-05-08 19:59:53,223][org.quartz.core.QuartzScheduler]Scheduler schedulerFactory_$_NON_CLUSTERED started.
+[INFO][2018-05-08 20:14:07,932][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormFieldDao }
+[INFO][2018-05-08 20:14:07,933][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormVersionDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.upload.CgFormUploadDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgreport.dao.core.CgReportDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.demo.dao.test.JeecgMinidaoDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.JeecgDictDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.repair.RepairDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsAdDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsArticleDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsMenuDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.guanjia.message.dao.TextTemplateDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.actInvite.dao.WxActInviteDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.auth.dao.JwSystemAuthDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderCustomDao }
+[INFO][2018-05-08 20:14:07,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderMainDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderProductDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAccountDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAgentDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxMenuDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDefaultDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGroupDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzentityDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzuserinfoDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxLocationDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxMessagelogDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxReceivetextDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.conversation.dao.QywxConversationDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewsitemDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewstemplateDao }
+[INFO][2018-05-08 20:14:07,935][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxTexttemplateDao }
+[INFO][2018-05-08 20:14:07,936][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayAccountDao }
+[INFO][2018-05-08 20:14:07,936][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayMenuDao }
+[INFO][2018-05-08 20:14:07,936][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDao }
+[INFO][2018-05-08 20:14:07,936][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDefaultDao }
+[INFO][2018-05-08 20:14:07,936][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzentityDao }
+[INFO][2018-05-08 20:14:07,936][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzuserinfoDao }
+[INFO][2018-05-08 20:14:07,936][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayMessagelogDao }
+[INFO][2018-05-08 20:14:07,937][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextContentDao }
+[INFO][2018-05-08 20:14:07,937][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextDao }
+[INFO][2018-05-08 20:14:07,937][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewsitemDao }
+[INFO][2018-05-08 20:14:07,937][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewstemplateDao }
+[INFO][2018-05-08 20:14:07,937][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayTexttemplateDao }
+[ERROR][2018-05-08 20:14:09,649][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-05-08 20:14:09,707][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-05-08 20:14:12,120][org.hibernate.id.UUIDHexGenerator]HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+[WARN][2018-05-08 20:14:13,401][net.sf.ehcache.distribution.RMICacheManagerPeerListener]Explicitly setting the listener hostname to 'localhost' is not recommended. It will only work if all CacheManager peers are on the same machine.
+[INFO][2018-05-08 20:14:18,193][org.quartz.core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[INFO][2018-05-08 20:14:18,193][org.quartz.core.QuartzScheduler]Quartz Scheduler v.1.6.2 created.
+[INFO][2018-05-08 20:14:18,194][org.quartz.simpl.RAMJobStore]RAMJobStore initialized.
+[INFO][2018-05-08 20:14:18,194][org.quartz.impl.StdSchedulerFactory]Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance.
+[INFO][2018-05-08 20:14:18,195][org.quartz.impl.StdSchedulerFactory]Quartz scheduler version: 1.6.2
+[INFO][2018-05-08 20:14:18,196][org.quartz.core.QuartzScheduler]JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@24963cb8
+[INFO][2018-05-08 20:14:20,145][org.jeecgframework.core.timer.DataBaseSchedulerFactoryBean]Starting Quartz Scheduler now
+[INFO][2018-05-08 20:14:20,146][org.quartz.core.QuartzScheduler]Scheduler schedulerFactory_$_NON_CLUSTERED started.
+[INFO][2018-05-08 20:17:14,256][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormFieldDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormVersionDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.upload.CgFormUploadDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgreport.dao.core.CgReportDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.demo.dao.test.JeecgMinidaoDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.JeecgDictDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.repair.RepairDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsAdDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsArticleDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsMenuDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.guanjia.message.dao.TextTemplateDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.actInvite.dao.WxActInviteDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.auth.dao.JwSystemAuthDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderCustomDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderMainDao }
+[INFO][2018-05-08 20:17:14,257][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderProductDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAccountDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAgentDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxMenuDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDefaultDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGroupDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzentityDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzuserinfoDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxLocationDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxMessagelogDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxReceivetextDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.conversation.dao.QywxConversationDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewsitemDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewstemplateDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxTexttemplateDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayAccountDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayMenuDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDao }
+[INFO][2018-05-08 20:17:14,258][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDefaultDao }
+[INFO][2018-05-08 20:17:14,259][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzentityDao }
+[INFO][2018-05-08 20:17:14,259][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzuserinfoDao }
+[INFO][2018-05-08 20:17:14,259][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayMessagelogDao }
+[INFO][2018-05-08 20:17:14,259][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextContentDao }
+[INFO][2018-05-08 20:17:14,259][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextDao }
+[INFO][2018-05-08 20:17:14,259][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewsitemDao }
+[INFO][2018-05-08 20:17:14,259][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewstemplateDao }
+[INFO][2018-05-08 20:17:14,259][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayTexttemplateDao }
+[ERROR][2018-05-08 20:17:16,268][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-05-08 20:17:16,365][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-05-08 20:17:18,859][org.hibernate.id.UUIDHexGenerator]HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+[WARN][2018-05-08 20:17:20,159][net.sf.ehcache.distribution.RMICacheManagerPeerListener]Explicitly setting the listener hostname to 'localhost' is not recommended. It will only work if all CacheManager peers are on the same machine.
+[INFO][2018-05-08 20:17:24,849][org.quartz.core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[INFO][2018-05-08 20:17:24,850][org.quartz.core.QuartzScheduler]Quartz Scheduler v.1.6.2 created.
+[INFO][2018-05-08 20:17:24,851][org.quartz.simpl.RAMJobStore]RAMJobStore initialized.
+[INFO][2018-05-08 20:17:24,851][org.quartz.impl.StdSchedulerFactory]Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance.
+[INFO][2018-05-08 20:17:24,851][org.quartz.impl.StdSchedulerFactory]Quartz scheduler version: 1.6.2
+[INFO][2018-05-08 20:17:24,853][org.quartz.core.QuartzScheduler]JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5c9a2677
+[INFO][2018-05-08 20:17:27,662][org.jeecgframework.core.timer.DataBaseSchedulerFactoryBean]Starting Quartz Scheduler now
+[INFO][2018-05-08 20:17:27,662][org.quartz.core.QuartzScheduler]Scheduler schedulerFactory_$_NON_CLUSTERED started.
+[INFO][2018-05-08 20:21:50,977][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-05-08 20:21:56,119][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-05-08 20:21:58,522][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-05-08 20:22:05,906][org.jeecgframework.core.util.LogUtil][weixin.idea.huodong.controller.ZpController:doGgl():136] - 

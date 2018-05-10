@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jeewx:jeewx-alipay-api:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/jeewx/jeewx-alipay-api/1.0-SNAPSHOT/jeewx-alipay-api-1.0-20161110.092606-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/jeewx/jeewx-alipay-api/1.0-SNAPSHOT/jeewx-alipay-api-1.0-20161110.092606-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/jeewx/jeewx-alipay-api/1.0-SNAPSHOT/jeewx-alipay-api-1.0-20161110.092606-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

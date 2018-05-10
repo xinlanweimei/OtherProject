@@ -1,0 +1,18 @@
+[2018-04-09 15:27:28] [info]  [ 2888] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-04-09 15:27:28] [info]  [ 2888] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-04-09 15:27:53] [info]  [ 2888] Service 'MsTomcat' installed
+[2018-04-09 15:27:53] [info]  [ 2888] Commons Daemon procrun finished
+[2018-04-09 15:27:53] [info]  [ 3496] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-04-09 15:27:53] [info]  [ 3496] Running 'MsTomcat' Service...
+[2018-04-09 15:27:53] [info]  [ 3344] Starting service...
+[2018-04-09 15:27:54] [info]  [ 3344] Service started in 1176 ms.
+[2018-04-09 15:31:15] [info]  [ 1884] Stopping service...
+[2018-04-09 15:31:36] [info]  [ 1884] Service stop thread completed.
+[2018-04-09 15:31:36] [info]  [ 3496] Run service finished.
+[2018-04-09 15:31:36] [info]  [ 3496] Commons Daemon procrun finished
+[2018-04-09 15:31:40] [info]  [ 3244] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-04-09 15:31:41] [info]  [ 3244] Deleting service...
+[2018-04-09 15:31:41] [error] [ 3244] 指定的服务未安装。
+[2018-04-09 15:31:41] [info]  [ 3244] Delete service finished.
+[2018-04-09 15:31:41] [error] [ 3244] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2018-04-09 15:31:41] [error] [ 3244] 指定的服务未安装。

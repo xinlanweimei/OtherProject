@@ -1,0 +1,160 @@
+180508 10:03:52 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:03:53  InnoDB: highest supported file format is Barracuda.
+180508 10:03:53 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:03:53 [Note] Event Scheduler: Loaded 0 events
+180508 10:03:53 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:03:53 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:03:53 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:03:53  InnoDB: Starting shutdown...
+180508 10:03:59  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:03:59 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+180508 10:08:40 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:08:40  InnoDB: highest supported file format is Barracuda.
+180508 10:08:40 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:08:41 [Note] Event Scheduler: Loaded 0 events
+180508 10:08:41 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:09:19 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:09:19 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:09:19  InnoDB: Starting shutdown...
+180508 10:09:21  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:09:21 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Shutdown complete
+
+180508 10:09:42 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:09:42  InnoDB: highest supported file format is Barracuda.
+180508 10:09:43 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:09:43 [Note] Event Scheduler: Loaded 0 events
+180508 10:09:43 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:13:21 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:13:21 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:13:21  InnoDB: Starting shutdown...
+180508 10:13:23  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:13:23 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Shutdown complete
+
+180508 10:14:05 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:14:05  InnoDB: highest supported file format is Barracuda.
+180508 10:14:05 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:14:05 [Note] Event Scheduler: Loaded 0 events
+180508 10:14:05 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:16:04 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:16:04 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:16:04  InnoDB: Starting shutdown...
+180508 10:16:06  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:16:06 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Shutdown complete
+
+180508 10:16:39 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:16:39  InnoDB: highest supported file format is Barracuda.
+180508 10:16:39 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:16:39 [Note] Event Scheduler: Loaded 0 events
+180508 10:16:39 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:18:24 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:18:24 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:18:24  InnoDB: Starting shutdown...
+180508 10:18:30  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:18:30 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Shutdown complete
+
+180508 10:19:02 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:19:02  InnoDB: highest supported file format is Barracuda.
+180508 10:19:02 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:19:02 [Note] Event Scheduler: Loaded 0 events
+180508 10:19:02 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:19:57 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:19:57 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:19:57  InnoDB: Starting shutdown...
+180508 10:20:02  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:20:02 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Shutdown complete
+
+180508 10:20:23 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:20:23  InnoDB: highest supported file format is Barracuda.
+180508 10:20:23 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:20:23 [Note] Event Scheduler: Loaded 0 events
+180508 10:20:23 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:20:23 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:20:23 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:20:23  InnoDB: Starting shutdown...
+180508 10:20:29  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:20:29 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+180508 10:20:44 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:20:44  InnoDB: highest supported file format is Barracuda.
+180508 10:20:44 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:20:44 [Note] Event Scheduler: Loaded 0 events
+180508 10:20:44 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:20:45 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:20:45 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:20:45  InnoDB: Starting shutdown...
+180508 10:20:49  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:20:49 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+180508 10:21:28 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:21:28  InnoDB: highest supported file format is Barracuda.
+180508 10:21:28 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:21:28 [Note] Event Scheduler: Loaded 0 events
+180508 10:21:28 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:25:56 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:25:56 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:25:56  InnoDB: Starting shutdown...
+180508 10:25:59  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:25:59 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Shutdown complete
+
+180508 10:26:30 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180508 10:26:30  InnoDB: highest supported file format is Barracuda.
+180508 10:26:30 InnoDB 1.1.2 started; log sequence number 14675261
+180508 10:26:30 [Note] Event Scheduler: Loaded 0 events
+180508 10:26:30 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180508 10:28:12 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Normal shutdown
+
+180508 10:28:12 [Note] Event Scheduler: Purging the queue. 0 events
+180508 10:28:12  InnoDB: Starting shutdown...
+180508 10:28:16  InnoDB: Shutdown completed; log sequence number 14675261
+180508 10:28:16 [Note] F:\WorkProjects\JTM-MCMS-4.6.3\mysql\bin\mysqld.exe: Shutdown complete
+

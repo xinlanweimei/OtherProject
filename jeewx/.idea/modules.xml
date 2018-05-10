@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jeecg-p3-biz-alipay-single/jeecg-p3-biz-alipay-single.iml" filepath="$PROJECT_DIR$/jeecg-p3-biz-alipay-single/jeecg-p3-biz-alipay-single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeecg-p3-biz-qywx/jeecg-p3-biz-qywx.iml" filepath="$PROJECT_DIR$/jeecg-p3-biz-qywx/jeecg-p3-biz-qywx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jeewx.iml" filepath="$PROJECT_DIR$/.idea/jeewx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeewx/jeewx-os.iml" filepath="$PROJECT_DIR$/jeewx/jeewx-os.iml" />
+    </modules>
+  </component>
+</project>

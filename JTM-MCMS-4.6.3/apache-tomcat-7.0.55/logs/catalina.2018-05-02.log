@@ -1,0 +1,204 @@
+五月 02, 2018 1:40:29 下午 org.apache.catalina.startup.Catalina initDirs
+严重: Cannot find specified temporary folder at D:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\temp
+五月 02, 2018 1:40:30 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.1.31 using APR version 1.4.8.
+五月 02, 2018 1:40:30 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+五月 02, 2018 1:40:30 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.1h 5 Jun 2014)
+五月 02, 2018 1:40:31 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 1:40:31 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 1:40:31 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1319 ms
+五月 02, 2018 1:40:31 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+五月 02, 2018 1:40:31 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.55
+五月 02, 2018 1:40:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory D:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\webapps\ROOT
+五月 02, 2018 1:40:31 下午 org.apache.catalina.loader.WebappClassLoader validateJarFile
+信息: validateJarFile(D:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\webapps\ROOT\WEB-INF\lib\javax.servlet-api-3.1.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+五月 02, 2018 1:40:43 下午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://shiro.apache.org/tags is already defined
+五月 02, 2018 1:40:51 下午 org.apache.catalina.core.StandardContext startInternal
+严重: Error listenerStart
+五月 02, 2018 1:40:51 下午 org.apache.catalina.core.StandardContext startInternal
+严重: Context [] startup failed due to previous errors
+五月 02, 2018 1:40:51 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+严重: The web application [] registered the JDBC driver [com.alibaba.druid.proxy.DruidDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+五月 02, 2018 1:40:51 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+严重: The web application [] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+五月 02, 2018 1:40:51 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+五月 02, 2018 1:40:51 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [] appears to have started a thread named [Druid-ConnectionPool-Create-11307095] but has failed to stop it. This is very likely to create a memory leak.
+五月 02, 2018 1:40:51 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [] appears to have started a thread named [Druid-ConnectionPool-Destroy-11307095] but has failed to stop it. This is very likely to create a memory leak.
+五月 02, 2018 1:40:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory D:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\webapps\ROOT has finished in 20,104 ms
+五月 02, 2018 1:40:51 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 1:40:51 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 1:40:51 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 20167 ms
+五月 02, 2018 1:50:44 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 1:50:44 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 1:50:44 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+五月 02, 2018 1:50:44 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 1:50:45 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 1:51:16 下午 org.apache.catalina.startup.Catalina initDirs
+严重: Cannot find specified temporary folder at D:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\temp
+五月 02, 2018 1:51:17 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.1.31 using APR version 1.4.8.
+五月 02, 2018 1:51:17 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+五月 02, 2018 1:51:17 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.1h 5 Jun 2014)
+五月 02, 2018 1:51:17 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 1:51:18 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 1:51:18 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1178 ms
+五月 02, 2018 1:51:18 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+五月 02, 2018 1:51:18 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.55
+五月 02, 2018 1:51:18 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory D:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\webapps\ROOT
+五月 02, 2018 1:51:18 下午 org.apache.catalina.loader.WebappClassLoader validateJarFile
+信息: validateJarFile(D:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\webapps\ROOT\WEB-INF\lib\javax.servlet-api-3.1.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+五月 02, 2018 1:51:29 下午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://shiro.apache.org/tags is already defined
+五月 02, 2018 1:51:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory D:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\webapps\ROOT has finished in 24,382 ms
+五月 02, 2018 1:51:42 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 1:51:42 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 1:51:42 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 24438 ms
+五月 02, 2018 1:53:15 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 1:53:15 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 1:53:15 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+严重: The web application [] registered the JDBC driver [com.alibaba.druid.proxy.DruidDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+严重: The web application [] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@ffa75]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@ce8c6d]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@656e79]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@137e9ef]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@1df8608]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@1d88cb2]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@1d0e019]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@28cadd]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@1ea99e]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@111d27e]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@1125f28]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@12547f4]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@96e6cf]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@10b4a65]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@41460a]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@15d69d7]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@1cfc3c7]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@13e6ce8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8696b3]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@1600672]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1043b42]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@1473989]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 1:53:15 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 1:53:15 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 9:17:13 下午 org.apache.catalina.startup.Catalina initDirs
+严重: Cannot find specified temporary folder at E:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\temp
+五月 02, 2018 9:17:14 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.1.31 using APR version 1.4.8.
+五月 02, 2018 9:17:14 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+五月 02, 2018 9:17:15 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.1h 5 Jun 2014)
+五月 02, 2018 9:17:15 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 9:17:15 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 9:17:15 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 2228 ms
+五月 02, 2018 9:17:15 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+五月 02, 2018 9:17:15 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.55
+五月 02, 2018 9:17:15 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\webapps\ROOT
+五月 02, 2018 9:17:16 下午 org.apache.catalina.loader.WebappClassLoader validateJarFile
+信息: validateJarFile(E:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\webapps\ROOT\WEB-INF\lib\javax.servlet-api-3.1.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+五月 02, 2018 9:17:35 下午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://shiro.apache.org/tags is already defined
+五月 02, 2018 9:17:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory E:\JTM-MCMS-4.6.3\apache-tomcat-7.0.55\webapps\ROOT has finished in 40,606 ms
+五月 02, 2018 9:17:56 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 9:17:56 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 9:17:56 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 40700 ms
+五月 02, 2018 9:21:03 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 9:21:03 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+五月 02, 2018 9:21:03 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+五月 02, 2018 9:21:03 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+严重: The web application [] registered the JDBC driver [com.alibaba.druid.proxy.DruidDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+五月 02, 2018 9:21:03 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+严重: The web application [] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+五月 02, 2018 9:21:03 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+五月 02, 2018 9:21:03 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@15d7b89]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@599ea5]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 9:21:03 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1be7e83]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@163e605]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 9:21:03 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@15d7b89]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@743b4b]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 9:21:03 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1be7e83]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@e0f6b5]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 9:21:03 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@15d7b89]) and a value of type [org.apache.shiro.web.servlet.ShiroHttpServletRequest] (value [org.apache.shiro.web.servlet.ShiroHttpServletRequest@164f0cf]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 9:21:03 下午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1be7e83]) and a value of type [com.alibaba.druid.support.http.WebStatFilter.StatHttpServletResponseWrapper] (value [com.alibaba.druid.support.http.WebStatFilter$StatHttpServletResponseWrapper@1fdabe1]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+五月 02, 2018 9:21:03 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8181"]
+五月 02, 2018 9:21:03 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]

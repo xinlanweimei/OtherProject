@@ -1,0 +1,124 @@
+[2018-05-08 10:04:12] [info]  [ 1372] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:04:12] [info]  [ 1372] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:04:12] [info]  [ 1372] Service 'MsTomcat' installed
+[2018-05-08 10:04:12] [info]  [ 1372] Commons Daemon procrun finished
+[2018-05-08 10:05:18] [info]  [11480] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:05:18] [info]  [11480] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:05:18] [error] [11480] 指定的服务已存在。
+[2018-05-08 10:05:18] [error] [11480] Failed installing 'MsTomcat' service
+[2018-05-08 10:05:18] [error] [11480] 指定的服务已存在。
+[2018-05-08 10:05:18] [error] [11480] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2018-05-08 10:05:18] [error] [11480] 指定的服务已存在。
+[2018-05-08 10:05:48] [info]  [ 4192] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:05:48] [info]  [ 4192] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:05:48] [error] [ 4192] 指定的服务已存在。
+[2018-05-08 10:05:48] [error] [ 4192] Failed installing 'MsTomcat' service
+[2018-05-08 10:05:48] [error] [ 4192] 指定的服务已存在。
+[2018-05-08 10:05:48] [error] [ 4192] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2018-05-08 10:05:49] [error] [ 4192] 指定的服务已存在。
+[2018-05-08 10:07:14] [info]  [15092] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:07:14] [info]  [15092] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:07:14] [error] [15092] 指定的服务已存在。
+[2018-05-08 10:07:14] [error] [15092] Failed installing 'MsTomcat' service
+[2018-05-08 10:07:15] [error] [15092] 指定的服务已存在。
+[2018-05-08 10:07:15] [error] [15092] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2018-05-08 10:07:15] [error] [15092] 指定的服务已存在。
+[2018-05-08 10:08:36] [info]  [15568] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:08:36] [info]  [15568] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:08:36] [error] [15568] 指定的服务已存在。
+[2018-05-08 10:08:36] [error] [15568] Failed installing 'MsTomcat' service
+[2018-05-08 10:08:36] [error] [15568] 指定的服务已存在。
+[2018-05-08 10:08:36] [error] [15568] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2018-05-08 10:08:37] [error] [15568] 指定的服务已存在。
+[2018-05-08 10:08:37] [info]  [15968] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:08:37] [info]  [15968] Running 'MsTomcat' Service...
+[2018-05-08 10:08:37] [info]  [ 9096] Starting service...
+[2018-05-08 10:08:38] [info]  [ 9096] Service started in 1256 ms.
+[2018-05-08 10:08:53] [info]  [15968] Run service finished.
+[2018-05-08 10:08:54] [info]  [15968] Commons Daemon procrun finished
+[2018-05-08 10:09:38] [info]  [20084] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:09:39] [info]  [20084] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:09:39] [error] [20084] 指定的服务已存在。
+[2018-05-08 10:09:39] [error] [20084] Failed installing 'MsTomcat' service
+[2018-05-08 10:09:39] [error] [20084] 指定的服务已存在。
+[2018-05-08 10:09:39] [error] [20084] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2018-05-08 10:09:39] [error] [20084] 指定的服务已存在。
+[2018-05-08 10:09:39] [info]  [ 4788] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:09:39] [info]  [ 4788] Running 'MsTomcat' Service...
+[2018-05-08 10:09:39] [info]  [ 9164] Starting service...
+[2018-05-08 10:09:41] [info]  [ 9164] Service started in 1216 ms.
+[2018-05-08 10:09:55] [info]  [ 4788] Run service finished.
+[2018-05-08 10:09:56] [info]  [ 4788] Commons Daemon procrun finished
+[2018-05-08 10:13:34] [info]  [ 7192] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:13:34] [info]  [ 7192] Deleting service...
+[2018-05-08 10:13:34] [info]  [ 7192] Delete service finished.
+[2018-05-08 10:13:34] [info]  [ 7192] Commons Daemon procrun finished
+[2018-05-08 10:13:47] [info]  [ 6092] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:13:47] [info]  [ 6092] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:13:47] [info]  [ 6092] Service 'MsTomcat' installed
+[2018-05-08 10:13:47] [info]  [ 6092] Commons Daemon procrun finished
+[2018-05-08 10:14:01] [info]  [14204] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:14:01] [info]  [14204] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:14:01] [error] [14204] 指定的服务已存在。
+[2018-05-08 10:14:01] [error] [14204] Failed installing 'MsTomcat' service
+[2018-05-08 10:14:01] [error] [14204] 指定的服务已存在。
+[2018-05-08 10:14:01] [error] [14204] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2018-05-08 10:14:01] [error] [14204] 指定的服务已存在。
+[2018-05-08 10:14:02] [info]  [  652] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:14:02] [info]  [  652] Running 'MsTomcat' Service...
+[2018-05-08 10:14:02] [info]  [18592] Starting service...
+[2018-05-08 10:14:03] [info]  [18592] Service started in 1214 ms.
+[2018-05-08 10:14:18] [info]  [  652] Run service finished.
+[2018-05-08 10:14:18] [info]  [  652] Commons Daemon procrun finished
+[2018-05-08 10:16:35] [info]  [12968] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:16:35] [info]  [12968] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:16:35] [error] [12968] 指定的服务已存在。
+[2018-05-08 10:16:35] [error] [12968] Failed installing 'MsTomcat' service
+[2018-05-08 10:16:35] [error] [12968] 指定的服务已存在。
+[2018-05-08 10:16:35] [error] [12968] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2018-05-08 10:16:35] [error] [12968] 指定的服务已存在。
+[2018-05-08 10:16:35] [info]  [18412] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:16:36] [info]  [18412] Running 'MsTomcat' Service...
+[2018-05-08 10:16:36] [info]  [16860] Starting service...
+[2018-05-08 10:16:37] [info]  [16860] Service started in 1154 ms.
+[2018-05-08 10:16:53] [info]  [18412] Run service finished.
+[2018-05-08 10:16:53] [info]  [18412] Commons Daemon procrun finished
+[2018-05-08 10:18:58] [info]  [ 6124] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:18:58] [info]  [ 6124] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:18:58] [error] [ 6124] 指定的服务已存在。
+[2018-05-08 10:18:58] [error] [ 6124] Failed installing 'MsTomcat' service
+[2018-05-08 10:18:58] [error] [ 6124] 指定的服务已存在。
+[2018-05-08 10:18:58] [error] [ 6124] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2018-05-08 10:18:58] [error] [ 6124] 指定的服务已存在。
+[2018-05-08 10:18:58] [info]  [10824] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:18:59] [info]  [10824] Running 'MsTomcat' Service...
+[2018-05-08 10:18:59] [info]  [14676] Starting service...
+[2018-05-08 10:19:00] [info]  [14676] Service started in 1163 ms.
+[2018-05-08 10:19:57] [info]  [18428] Stopping service...
+[2018-05-08 10:19:58] [info]  [18428] Service stop thread completed.
+[2018-05-08 10:19:58] [info]  [10824] Run service finished.
+[2018-05-08 10:19:59] [info]  [10824] Commons Daemon procrun finished
+[2018-05-08 10:21:25] [info]  [ 4840] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:21:25] [info]  [ 4840] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:21:25] [info]  [ 4840] Service 'MsTomcat' installed
+[2018-05-08 10:21:25] [info]  [ 4840] Commons Daemon procrun finished
+[2018-05-08 10:21:25] [info]  [18252] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:21:25] [info]  [18252] Running 'MsTomcat' Service...
+[2018-05-08 10:21:25] [info]  [ 8092] Starting service...
+[2018-05-08 10:21:27] [info]  [ 8092] Service started in 1135 ms.
+[2018-05-08 10:25:56] [info]  [16996] Stopping service...
+[2018-05-08 10:25:57] [info]  [16996] Service stop thread completed.
+[2018-05-08 10:25:58] [info]  [18252] Run service finished.
+[2018-05-08 10:25:58] [info]  [18252] Commons Daemon procrun finished
+[2018-05-08 10:26:26] [info]  [18936] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:26:26] [info]  [18936] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-05-08 10:26:27] [info]  [18936] Service 'MsTomcat' installed
+[2018-05-08 10:26:27] [info]  [18936] Commons Daemon procrun finished
+[2018-05-08 10:26:27] [info]  [18664] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-05-08 10:26:27] [info]  [18664] Running 'MsTomcat' Service...
+[2018-05-08 10:26:27] [info]  [ 8840] Starting service...
+[2018-05-08 10:26:28] [info]  [ 8840] Service started in 1168 ms.
+[2018-05-08 10:28:12] [info]  [15132] Stopping service...
+[2018-05-08 10:28:13] [info]  [15132] Service stop thread completed.
+[2018-05-08 10:28:13] [info]  [18664] Run service finished.
+[2018-05-08 10:28:13] [info]  [18664] Commons Daemon procrun finished

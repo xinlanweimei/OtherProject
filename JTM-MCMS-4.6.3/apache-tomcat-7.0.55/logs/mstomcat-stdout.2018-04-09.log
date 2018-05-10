@@ -1,0 +1,84 @@
+
+2018-04-09 15:27:53 Commons Daemon procrun stdout initialized
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:28:10,581](INFO) - com.alibaba.druid.pool.DruidDataSource - (DruidDataSource.java:722) {dataSource-1} inited 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:28:17,471](DEBUG) - com.mingsoft.basic.listener.StartUpListener - (StartUpListener.java:53) MSÆô¶¯³õÊ¼»¯¿ªÊ¼ 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:28:17,471](DEBUG) - com.mingsoft.basic.listener.StartUpListener - (StartUpListener.java:57) MSÆô¶¯³õÊ¼»¯½áÊø 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:28:17,862](DEBUG) - com.mingsoft.basic.configurer.ShiroTagFreeMarkderConfigurer - (FreeMarkerConfigurationFactory.java:340) Template loader path [ServletContext resource [/]] resolved to file path [D:\JTM-MCMS-4.6.2\apache-tomcat-7.0.55\webapps\ROOT] 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:28:17,862](INFO) - com.mingsoft.basic.configurer.ShiroTagFreeMarkderConfigurer - (FreeMarkerConfigurer.java:127) ClassTemplateLoader for Spring macros added to FreeMarker configuration 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,001](INFO) - org.apache.shiro.session.mgt.AbstractValidatingSessionManager - (AbstractValidatingSessionManager.java:229) Enabling session validation scheduler... 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,026](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:46) doCreate org.apache.shiro.session.mgt.SimpleSession,id=1af4275d-9e4d-4415-8299-40fc5fdeb7fa /ms/login.dp 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,028](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,033](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,049](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,097](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:259) url:/ms/login.do;JSESSIONID=1af4275d-9e4d-4415-8299-40fc5fdeb7fa 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,188](DEBUG) - com.mingsoft.basic.dao.IAppDao - (LoggingCache.java:62) Cache Hit Ratio [com.mingsoft.basic.dao.IAppDao]: 0.0 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,206](DEBUG) - com.mingsoft.basic.dao.IAppDao.getByUrl - (BaseJdbcLogger.java:145) ==>  Preparing: select * from app where APP_URL like CONCAT('%',?,'%') limit 0,1  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,245](DEBUG) - com.mingsoft.basic.dao.IAppDao.getByUrl - (BaseJdbcLogger.java:145) ==> Parameters: localhost:8181(String) 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,278](DEBUG) - com.mingsoft.basic.dao.IAppDao.getByUrl - (BaseJdbcLogger.java:145) <==      Total: 1 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,296](DEBUG) - com.mingsoft.basic.action.web.LoginAction - (LoginAction.java:138) login path 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,937](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,937](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,947](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:43,953](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,457](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,475](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:259) url:/ms/checkLogin.do 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,476](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:266) managerName:msopen 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,476](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:266) managerPassword:msopen 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,521](DEBUG) - com.mingsoft.basic.dao.IAppDao - (LoggingCache.java:62) Cache Hit Ratio [com.mingsoft.basic.dao.IAppDao]: 0.5 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,578](DEBUG) - com.mingsoft.basic.dao.IManagerDao.getByEntity - (BaseJdbcLogger.java:145) ==>  Preparing: select * from manager WHERE MANAGER_NAME=? limit 0,1  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,579](DEBUG) - com.mingsoft.basic.dao.IManagerDao.getByEntity - (BaseJdbcLogger.java:145) ==> Parameters: msopen(String) 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,586](DEBUG) - com.mingsoft.basic.dao.IManagerDao.getByEntity - (BaseJdbcLogger.java:145) <==      Total: 1 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,587](DEBUG) - com.mingsoft.basic.dao.IRoleDao.getEntity - (BaseJdbcLogger.java:145) ==>  Preparing: select ROLE_ID,ROLE_NAME,ROLE_MANAGERID,APP_ID from role where ROLE_ID=?;  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,589](DEBUG) - com.mingsoft.basic.dao.IRoleDao.getEntity - (BaseJdbcLogger.java:145) ==> Parameters: 48(Integer) 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,594](DEBUG) - com.mingsoft.basic.dao.IRoleDao.getEntity - (BaseJdbcLogger.java:145) <==      Total: 1 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,596](DEBUG) - com.mingsoft.basic.dao.IAppDao - (LoggingCache.java:62) Cache Hit Ratio [com.mingsoft.basic.dao.IAppDao]: 0.3333333333333333 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,596](DEBUG) - com.mingsoft.basic.dao.IAppDao.getByManagerId - (BaseJdbcLogger.java:145) ==>  Preparing: select * from app where APP_MANAGERID = ?  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,597](DEBUG) - com.mingsoft.basic.dao.IAppDao.getByManagerId - (BaseJdbcLogger.java:145) ==> Parameters: 50(Integer) 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,601](DEBUG) - com.mingsoft.basic.dao.IAppDao.getByManagerId - (BaseJdbcLogger.java:145) <==      Total: 1 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,603](DEBUG) - com.mingsoft.basic.dao.IManagerDao.queryAllChildManager - (BaseJdbcLogger.java:145) ==>  Preparing: select * from manager m left join role r on m.MANAGER_ROLEID = r.ROLE_ID where MANAGER_ROLEID in (select ROLE_ID from role where ROLE_MANAGERID = ?) order by MANAGER_ID DESC  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,604](DEBUG) - com.mingsoft.basic.dao.IManagerDao.queryAllChildManager - (BaseJdbcLogger.java:145) ==> Parameters: 0(Integer) 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,605](DEBUG) - com.mingsoft.basic.dao.IManagerDao.queryAllChildManager - (BaseJdbcLogger.java:145) <==      Total: 0 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,606](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,614](DEBUG) - com.mingsoft.basic.dao.IManagerDao.getByEntity - (BaseJdbcLogger.java:145) ==>  Preparing: select * from manager WHERE MANAGER_NAME=? limit 0,1  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,615](DEBUG) - com.mingsoft.basic.dao.IManagerDao.getByEntity - (BaseJdbcLogger.java:145) ==> Parameters: msopen(String) 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,618](DEBUG) - com.mingsoft.basic.dao.IManagerDao.getByEntity - (BaseJdbcLogger.java:145) <==      Total: 1 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,625](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,625](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,738](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,749](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:259) url:/ms/index.do 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,753](DEBUG) - com.mingsoft.basic.dao.IModelDao.queryModelByRoleId - (BaseJdbcLogger.java:145) ==>  Preparing: select MODEL_ID,MODEL_TITLE,MODEL_MODELID,MODEL_URL,MODEL_ICON from model where model_id in (select RM_MODELID from role_model where RM_ROLEID=?)  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,754](DEBUG) - com.mingsoft.basic.dao.IModelDao.queryModelByRoleId - (BaseJdbcLogger.java:145) ==> Parameters: 48(Integer) 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:48,776](DEBUG) - com.mingsoft.basic.dao.IModelDao.queryModelByRoleId - (BaseJdbcLogger.java:145) <==      Total: 69 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:49,385](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:49,397](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:259) url:/ms/upgrader/sync.do 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:49,397](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:266) ck: 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:49,493](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:49,505](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:259) url:/error/404.do 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:49,527](DEBUG) - com.mingsoft.basic.dao.IAppDao - (LoggingCache.java:62) Cache Hit Ratio [com.mingsoft.basic.dao.IAppDao]: 0.5 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,406](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,416](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:259) url:/login.do 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,419](DEBUG) - com.mingsoft.basic.dao.IAppDao - (LoggingCache.java:62) Cache Hit Ratio [com.mingsoft.basic.dao.IAppDao]: 0.6 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,421](DEBUG) - com.mingsoft.mdiy.dao.IPageDao.getByEntity - (BaseJdbcLogger.java:145) ==>  Preparing: select * from mdiy_page WHERE page_app_id=? and page_key=? limit 0,1  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,422](DEBUG) - com.mingsoft.mdiy.dao.IPageDao.getByEntity - (BaseJdbcLogger.java:145) ==> Parameters: 1(Integer), login(String) 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,428](DEBUG) - com.mingsoft.mdiy.dao.IPageDao.getByEntity - (BaseJdbcLogger.java:145) <==      Total: 1 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,458](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,458](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,459](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,462](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,462](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,467](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,511](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,596](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,628](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:259) url:/error/500.do 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,631](DEBUG) - com.mingsoft.basic.dao.IAppDao - (LoggingCache.java:62) Cache Hit Ratio [com.mingsoft.basic.dao.IAppDao]: 0.6666666666666666 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,650](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,653](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,660](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,666](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:259) url:/error/500.do 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,667](DEBUG) - com.mingsoft.basic.interceptor.ActionInterceptor - (BaseInterceptor.java:259) url:/error/404.do 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,667](DEBUG) - com.mingsoft.basic.dao.IAppDao - (LoggingCache.java:62) Cache Hit Ratio [com.mingsoft.basic.dao.IAppDao]: 0.7142857142857143 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,668](DEBUG) - com.mingsoft.basic.dao.IAppDao - (LoggingCache.java:62) Cache Hit Ratio [com.mingsoft.basic.dao.IAppDao]: 0.75 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,677](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:30:56,680](DEBUG) - net.mingsoft.basic.security.session.CacheSessionDAO - (CacheSessionDAO.java:68) doUpdate 1af4275d-9e4d-4415-8299-40fc5fdeb7fa  
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:31:15,581](INFO) - org.apache.shiro.session.mgt.AbstractValidatingSessionManager - (AbstractValidatingSessionManager.java:246) Disabled session validation scheduler. 
+[Ãú·ÉMS-V4.6.0 2018-04-09 15:31:15,596](INFO) - com.alibaba.druid.pool.DruidDataSource - (DruidDataSource.java:1447) {dataSource-1} closed 

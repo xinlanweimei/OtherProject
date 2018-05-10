@@ -1,0 +1,36 @@
+180323 17:18:30 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180323 17:18:30  InnoDB: highest supported file format is Barracuda.
+180323 17:18:31 InnoDB 1.1.2 started; log sequence number 11340552
+180323 17:18:31 [Note] Event Scheduler: Loaded 0 events
+180323 17:18:31 [Note] D:\test\JTM-MCMS-4.6.1\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180323 17:26:53 [Note] D:\test\JTM-MCMS-4.6.1\mysql\bin\mysqld.exe: Normal shutdown
+
+180323 17:26:53 [Note] Event Scheduler: Purging the queue. 0 events
+180323 17:26:55 [Warning] D:\test\JTM-MCMS-4.6.1\mysql\bin\mysqld.exe: Forcing close of thread 6  user: 'root'
+
+180323 17:26:55 [Warning] D:\test\JTM-MCMS-4.6.1\mysql\bin\mysqld.exe: Forcing close of thread 1  user: 'root'
+
+180323 17:26:55  InnoDB: Starting shutdown...
+180323 17:26:56  InnoDB: Shutdown completed; log sequence number 12187833
+180323 17:26:56 [Note] D:\test\JTM-MCMS-4.6.1\mysql\bin\mysqld.exe: Shutdown complete
+
+180323 17:27:16 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+180323 17:27:16  InnoDB: highest supported file format is Barracuda.
+180323 17:27:16 InnoDB 1.1.2 started; log sequence number 12187833
+180323 17:27:16 [Note] Event Scheduler: Loaded 0 events
+180323 17:27:16 [Note] D:\test\JTM-MCMS-4.6.1\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3309  MySQL Community Server (GPL)
+180323 17:30:04 [Note] D:\test\JTM-MCMS-4.6.1\mysql\bin\mysqld.exe: Normal shutdown
+
+180323 17:30:04 [Note] Event Scheduler: Purging the queue. 0 events
+180323 17:30:06  InnoDB: Starting shutdown...
+180323 17:30:11  InnoDB: Shutdown completed; log sequence number 12189750
+180323 17:30:11 [Note] D:\test\JTM-MCMS-4.6.1\mysql\bin\mysqld.exe: Shutdown complete
+

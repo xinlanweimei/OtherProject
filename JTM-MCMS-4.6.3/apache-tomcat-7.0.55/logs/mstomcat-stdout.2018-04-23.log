@@ -1,0 +1,8 @@
+
+2018-04-23 17:32:11 Commons Daemon procrun stdout initialized
+[Ãú·ÉMS-V4.6.0 2018-04-23 17:32:30,525](INFO) - com.alibaba.druid.pool.DruidDataSource - (DruidDataSource.java:722) {dataSource-1} inited 
+[Ãú·ÉMS-V4.6.0 2018-04-23 17:32:37,447](DEBUG) - com.mingsoft.basic.listener.StartUpListener - (StartUpListener.java:53) MSÆô¶¯³õÊ¼»¯¿ªÊ¼ 
+[Ãú·ÉMS-V4.6.0 2018-04-23 17:32:37,452](DEBUG) - com.mingsoft.basic.listener.StartUpListener - (StartUpListener.java:57) MSÆô¶¯³õÊ¼»¯½áÊø 
+[Ãú·ÉMS-V4.6.0 2018-04-23 17:32:37,821](DEBUG) - com.mingsoft.basic.configurer.ShiroTagFreeMarkderConfigurer - (FreeMarkerConfigurationFactory.java:340) Template loader path [ServletContext resource [/]] resolved to file path [D:\JTM-MCMS-4.6.2\apache-tomcat-7.0.55\webapps\ROOT] 
+[Ãú·ÉMS-V4.6.0 2018-04-23 17:32:37,823](INFO) - com.mingsoft.basic.configurer.ShiroTagFreeMarkderConfigurer - (FreeMarkerConfigurer.java:127) ClassTemplateLoader for Spring macros added to FreeMarker configuration 
+[Ãú·ÉMS-V4.6.0 2018-04-23 20:51:30,779](INFO) - com.alibaba.druid.pool.DruidDataSource - (DruidDataSource.java:1447) {dataSource-1} closed 

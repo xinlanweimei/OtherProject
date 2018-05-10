@@ -1,0 +1,1182 @@
+[INFO][2018-04-17 21:40:34,559][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormFieldDao }
+[INFO][2018-04-17 21:40:34,560][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormVersionDao }
+[INFO][2018-04-17 21:40:34,560][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.upload.CgFormUploadDao }
+[INFO][2018-04-17 21:40:34,560][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgreport.dao.core.CgReportDao }
+[INFO][2018-04-17 21:40:34,560][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.demo.dao.test.JeecgMinidaoDao }
+[INFO][2018-04-17 21:40:34,561][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.JeecgDictDao }
+[INFO][2018-04-17 21:40:34,561][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.repair.RepairDao }
+[INFO][2018-04-17 21:40:34,561][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsAdDao }
+[INFO][2018-04-17 21:40:34,561][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsArticleDao }
+[INFO][2018-04-17 21:40:34,561][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsMenuDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.guanjia.message.dao.TextTemplateDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.actInvite.dao.WxActInviteDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.auth.dao.JwSystemAuthDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderCustomDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderMainDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderProductDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAccountDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAgentDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxMenuDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDefaultDao }
+[INFO][2018-04-17 21:40:34,562][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGroupDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzentityDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzuserinfoDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxLocationDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxMessagelogDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxReceivetextDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.conversation.dao.QywxConversationDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewsitemDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewstemplateDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxTexttemplateDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayAccountDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayMenuDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDao }
+[INFO][2018-04-17 21:40:34,563][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDefaultDao }
+[INFO][2018-04-17 21:40:34,564][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzentityDao }
+[INFO][2018-04-17 21:40:34,564][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzuserinfoDao }
+[INFO][2018-04-17 21:40:34,564][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayMessagelogDao }
+[INFO][2018-04-17 21:40:34,564][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextContentDao }
+[INFO][2018-04-17 21:40:34,564][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextDao }
+[INFO][2018-04-17 21:40:34,564][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewsitemDao }
+[INFO][2018-04-17 21:40:34,564][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewstemplateDao }
+[INFO][2018-04-17 21:40:34,564][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayTexttemplateDao }
+[ERROR][2018-04-17 21:40:35,783][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-04-17 21:40:35,844][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-04-17 21:40:38,049][org.hibernate.id.UUIDHexGenerator]HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+[WARN][2018-04-17 21:40:39,401][net.sf.ehcache.distribution.RMICacheManagerPeerListener]Explicitly setting the listener hostname to 'localhost' is not recommended. It will only work if all CacheManager peers are on the same machine.
+[ERROR][2018-04-17 21:40:43,558][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,563][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,565][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,567][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,572][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,574][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,578][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,580][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,582][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,587][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,589][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,594][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,596][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,600][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,602][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,607][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,609][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,611][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,613][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,615][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,617][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,619][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,621][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,623][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,625][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,627][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,628][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,630][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,633][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,635][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:40:43,637][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[ERROR][2018-04-17 21:41:13,642][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[WARN][2018-04-17 21:41:43,428][org.hibernate.engine.jdbc.spi.SqlExceptionHelper]SQL Error: 0, SQLState: null
+[ERROR][2018-04-17 21:41:43,428][org.hibernate.engine.jdbc.spi.SqlExceptionHelper]java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+[INFO][2018-04-17 21:41:43,443][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2018-04-17 21:41:43,444][org.springframework.web.context.ContextLoader]Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dynamicTask': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'schedulerFactory' defined in file [E:\jeewx\jeewx\target\classes\spring-mvc-timeTask.xml]: Cannot resolve reference to bean 'autoResetWeixinTokenCronTrigger' while setting bean property 'triggers' with key [0]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'autoResetWeixinTokenCronTrigger' defined in file [E:\jeewx\jeewx\target\classes\spring-mvc-timeTask.xml]: Invocation of init method failed; nested exception is org.springframework.transaction.CannotCreateTransactionException: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessPropertyValues(CommonAnnotationBeanPostProcessor.java:306)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1106)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'schedulerFactory' defined in file [E:\jeewx\jeewx\target\classes\spring-mvc-timeTask.xml]: Cannot resolve reference to bean 'autoResetWeixinTokenCronTrigger' while setting bean property 'triggers' with key [0]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'autoResetWeixinTokenCronTrigger' defined in file [E:\jeewx\jeewx\target\classes\spring-mvc-timeTask.xml]: Invocation of init method failed; nested exception is org.springframework.transaction.CannotCreateTransactionException: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveManagedList(BeanDefinitionValueResolver.java:353)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1360)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.autowireResource(CommonAnnotationBeanPostProcessor.java:442)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.getResource(CommonAnnotationBeanPostProcessor.java:416)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor$ResourceElement.getResourceToInject(CommonAnnotationBeanPostProcessor.java:549)
+	at org.springframework.beans.factory.annotation.InjectionMetadata$InjectedElement.inject(InjectionMetadata.java:150)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessPropertyValues(CommonAnnotationBeanPostProcessor.java:303)
+	... 22 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'autoResetWeixinTokenCronTrigger' defined in file [E:\jeewx\jeewx\target\classes\spring-mvc-timeTask.xml]: Invocation of init method failed; nested exception is org.springframework.transaction.CannotCreateTransactionException: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+	... 39 more
+Caused by: org.springframework.transaction.CannotCreateTransactionException: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.springframework.orm.hibernate4.HibernateTransactionManager.doBegin(HibernateTransactionManager.java:440)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.getTransaction(AbstractPlatformTransactionManager.java:371)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.createTransactionIfNecessary(TransactionAspectSupport.java:335)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:105)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at com.sun.proxy.$Proxy111.findUniqueByProperty(Unknown Source)
+	at org.jeecgframework.core.timer.DataBaseCronTriggerBean.afterPropertiesSet(DataBaseCronTriggerBean.java:25)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 46 more
+Caused by: org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:125)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:110)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:221)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:157)
+	at org.hibernate.internal.SessionImpl.connection(SessionImpl.java:550)
+	at org.springframework.orm.hibernate4.HibernateTransactionManager.doBegin(HibernateTransactionManager.java:354)
+	... 55 more
+Caused by: com.alibaba.druid.pool.GetConnectionTimeoutException: java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.alibaba.druid.pool.DruidDataSource.pollLast(DruidDataSource.java:1074)
+	at com.alibaba.druid.pool.DruidDataSource.getConnectionInternal(DruidDataSource.java:756)
+	at com.alibaba.druid.pool.DruidDataSource.getConnectionDirect(DruidDataSource.java:644)
+	at com.alibaba.druid.filter.FilterChainImpl.dataSource_connect(FilterChainImpl.java:4530)
+	at com.alibaba.druid.filter.stat.StatFilter.dataSource_getConnection(StatFilter.java:659)
+	at com.alibaba.druid.filter.FilterChainImpl.dataSource_connect(FilterChainImpl.java:4526)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:626)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:618)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:79)
+	at org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource.getConnection(AbstractRoutingDataSource.java:148)
+	at org.hibernate.service.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:141)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:292)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:214)
+	... 58 more
+Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1078)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4237)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4169)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:928)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1750)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1290)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2493)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:142)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:136)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1271)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1325)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1215)
+[INFO][2018-04-17 21:42:58,161][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormFieldDao }
+[INFO][2018-04-17 21:42:58,162][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormVersionDao }
+[INFO][2018-04-17 21:42:58,162][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.upload.CgFormUploadDao }
+[INFO][2018-04-17 21:42:58,162][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgreport.dao.core.CgReportDao }
+[INFO][2018-04-17 21:42:58,162][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.demo.dao.test.JeecgMinidaoDao }
+[INFO][2018-04-17 21:42:58,162][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.JeecgDictDao }
+[INFO][2018-04-17 21:42:58,162][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.repair.RepairDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsAdDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsArticleDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsMenuDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.guanjia.message.dao.TextTemplateDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.actInvite.dao.WxActInviteDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.auth.dao.JwSystemAuthDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderCustomDao }
+[INFO][2018-04-17 21:42:58,163][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderMainDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderProductDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAccountDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAgentDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxMenuDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDefaultDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGroupDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzentityDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzuserinfoDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxLocationDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxMessagelogDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxReceivetextDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.conversation.dao.QywxConversationDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewsitemDao }
+[INFO][2018-04-17 21:42:58,164][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewstemplateDao }
+[INFO][2018-04-17 21:42:58,165][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxTexttemplateDao }
+[INFO][2018-04-17 21:42:58,165][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayAccountDao }
+[INFO][2018-04-17 21:42:58,165][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayMenuDao }
+[INFO][2018-04-17 21:42:58,165][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDao }
+[INFO][2018-04-17 21:42:58,165][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDefaultDao }
+[INFO][2018-04-17 21:42:58,165][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzentityDao }
+[INFO][2018-04-17 21:42:58,165][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzuserinfoDao }
+[INFO][2018-04-17 21:42:58,165][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayMessagelogDao }
+[INFO][2018-04-17 21:42:58,166][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextContentDao }
+[INFO][2018-04-17 21:42:58,166][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextDao }
+[INFO][2018-04-17 21:42:58,166][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewsitemDao }
+[INFO][2018-04-17 21:42:58,166][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewstemplateDao }
+[INFO][2018-04-17 21:42:58,167][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayTexttemplateDao }
+[ERROR][2018-04-17 21:42:59,459][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-04-17 21:42:59,519][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-04-17 21:43:01,771][org.hibernate.id.UUIDHexGenerator]HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+[WARN][2018-04-17 21:43:03,078][net.sf.ehcache.distribution.RMICacheManagerPeerListener]Explicitly setting the listener hostname to 'localhost' is not recommended. It will only work if all CacheManager peers are on the same machine.
+[INFO][2018-04-17 21:43:07,724][org.quartz.core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[INFO][2018-04-17 21:43:07,724][org.quartz.core.QuartzScheduler]Quartz Scheduler v.1.6.2 created.
+[INFO][2018-04-17 21:43:07,725][org.quartz.simpl.RAMJobStore]RAMJobStore initialized.
+[INFO][2018-04-17 21:43:07,725][org.quartz.impl.StdSchedulerFactory]Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance.
+[INFO][2018-04-17 21:43:07,725][org.quartz.impl.StdSchedulerFactory]Quartz scheduler version: 1.6.2
+[INFO][2018-04-17 21:43:07,727][org.quartz.core.QuartzScheduler]JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@33d9ff78
+[INFO][2018-04-17 21:43:09,692][org.jeecgframework.core.timer.DataBaseSchedulerFactoryBean]Starting Quartz Scheduler now
+[INFO][2018-04-17 21:43:09,692][org.quartz.core.QuartzScheduler]Scheduler schedulerFactory_$_NON_CLUSTERED started.
+[INFO][2018-04-17 21:56:09,877][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormFieldDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormVersionDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.upload.CgFormUploadDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgreport.dao.core.CgReportDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.demo.dao.test.JeecgMinidaoDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.JeecgDictDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.repair.RepairDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsAdDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsArticleDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsMenuDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.guanjia.message.dao.TextTemplateDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-04-17 21:56:09,878][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.actInvite.dao.WxActInviteDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.auth.dao.JwSystemAuthDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderCustomDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderMainDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderProductDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAccountDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAgentDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxMenuDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDefaultDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGroupDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzentityDao }
+[INFO][2018-04-17 21:56:09,879][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzuserinfoDao }
+[INFO][2018-04-17 21:56:09,880][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxLocationDao }
+[INFO][2018-04-17 21:56:09,880][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxMessagelogDao }
+[INFO][2018-04-17 21:56:09,880][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxReceivetextDao }
+[INFO][2018-04-17 21:56:09,880][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.conversation.dao.QywxConversationDao }
+[INFO][2018-04-17 21:56:09,880][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewsitemDao }
+[INFO][2018-04-17 21:56:09,880][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewstemplateDao }
+[INFO][2018-04-17 21:56:09,880][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxTexttemplateDao }
+[INFO][2018-04-17 21:56:09,880][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayAccountDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayMenuDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDefaultDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzentityDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzuserinfoDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayMessagelogDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextContentDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewsitemDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewstemplateDao }
+[INFO][2018-04-17 21:56:09,890][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayTexttemplateDao }
+[ERROR][2018-04-17 21:56:11,062][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-04-17 21:56:11,122][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-04-17 21:56:13,123][org.hibernate.id.UUIDHexGenerator]HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+[WARN][2018-04-17 21:56:14,282][net.sf.ehcache.distribution.RMICacheManagerPeerListener]Explicitly setting the listener hostname to 'localhost' is not recommended. It will only work if all CacheManager peers are on the same machine.
+[INFO][2018-04-17 21:56:18,816][org.quartz.core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[INFO][2018-04-17 21:56:18,816][org.quartz.core.QuartzScheduler]Quartz Scheduler v.1.6.2 created.
+[INFO][2018-04-17 21:56:18,816][org.quartz.simpl.RAMJobStore]RAMJobStore initialized.
+[INFO][2018-04-17 21:56:18,816][org.quartz.impl.StdSchedulerFactory]Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance.
+[INFO][2018-04-17 21:56:18,816][org.quartz.impl.StdSchedulerFactory]Quartz scheduler version: 1.6.2
+[INFO][2018-04-17 21:56:18,816][org.quartz.core.QuartzScheduler]JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5f27f18c
+[INFO][2018-04-17 21:56:20,859][org.jeecgframework.core.timer.DataBaseSchedulerFactoryBean]Starting Quartz Scheduler now
+[INFO][2018-04-17 21:56:20,859][org.quartz.core.QuartzScheduler]Scheduler schedulerFactory_$_NON_CLUSTERED started.
+[INFO][2018-04-17 21:57:50,630][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 21:58:24,069][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 21:58:25,894][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 21:58:27,529][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 21:58:28,551][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 21:58:29,516][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:02:42,741][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:02:45,262][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:02:46,522][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:02:47,922][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:02:50,781][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:02:50,947][org.jeecgframework.core.util.LogUtil][weixin.idea.huodong.controller.HuodongController:datagrid():83] - .....type.....2
+[INFO][2018-04-17 22:02:53,471][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:02:53,615][org.jeecgframework.core.util.LogUtil][weixin.idea.huodong.controller.PrizeRecordController:datagrid():80] - .....openwin....402881e6469a13b901469a1e9e420001
+[INFO][2018-04-17 22:03:12,165][org.jeecgframework.core.util.LogUtil][weixin.idea.huodong.controller.ZpController:goZhuanpan():208] - ....hdid....402881e6469a13b901469a1e9e420001...openId..oGCDRjvr9L1NoqxbyXLReCVYVyV0
+[INFO][2018-04-17 22:03:18,716][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:03:22,505][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:03:28,326][org.jeecgframework.core.util.LogUtil][weixin.idea.huodong.controller.ZpController:doGgl():136] - 
+[INFO][2018-04-17 22:03:52,090][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:04:10,250][org.jeecgframework.core.util.LogUtil][org.jeecgframework.tag.core.easyui.DataGridTag:getNoAuthOperButton():1142] - ----getNoAuthOperButton-------
+[INFO][2018-04-17 22:11:07,961][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormFieldDao }
+[INFO][2018-04-17 22:11:07,964][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.config.CgFormVersionDao }
+[INFO][2018-04-17 22:11:07,965][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgform.dao.upload.CgFormUploadDao }
+[INFO][2018-04-17 22:11:07,965][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.cgreport.dao.core.CgReportDao }
+[INFO][2018-04-17 22:11:07,966][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.demo.dao.test.JeecgMinidaoDao }
+[INFO][2018-04-17 22:11:07,967][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.JeecgDictDao }
+[INFO][2018-04-17 22:11:07,967][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { org.jeecgframework.web.system.dao.repair.RepairDao }
+[INFO][2018-04-17 22:11:07,968][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsAdDao }
+[INFO][2018-04-17 22:11:07,968][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsArticleDao }
+[INFO][2018-04-17 22:11:07,968][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.cms.dao.CmsMenuDao }
+[INFO][2018-04-17 22:11:07,969][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { weixin.guanjia.message.dao.TextTemplateDao }
+[INFO][2018-04-17 22:11:07,969][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-04-17 22:11:07,969][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-04-17 22:11:07,969][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-04-17 22:11:07,970][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-04-17 22:11:07,970][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.actInvite.dao.WxActInviteDao }
+[INFO][2018-04-17 22:11:07,971][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.auth.dao.JwSystemAuthDao }
+[INFO][2018-04-17 22:11:07,972][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderCustomDao }
+[INFO][2018-04-17 22:11:07,973][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderMainDao }
+[INFO][2018-04-17 22:11:07,973][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.domo.order.dao.JpDemoOrderProductDao }
+[INFO][2018-04-17 22:11:07,973][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAccountDao }
+[INFO][2018-04-17 22:11:07,973][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxAgentDao }
+[INFO][2018-04-17 22:11:07,974][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.account.dao.QywxMenuDao }
+[INFO][2018-04-17 22:11:07,974][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDao }
+[INFO][2018-04-17 22:11:07,974][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxAutoresponseDefaultDao }
+[INFO][2018-04-17 22:11:07,975][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGroupDao }
+[INFO][2018-04-17 22:11:07,975][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzentityDao }
+[INFO][2018-04-17 22:11:07,975][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxGzuserinfoDao }
+[INFO][2018-04-17 22:11:07,976][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxLocationDao }
+[INFO][2018-04-17 22:11:07,976][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxMessagelogDao }
+[INFO][2018-04-17 22:11:07,976][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.base.dao.QywxReceivetextDao }
+[INFO][2018-04-17 22:11:07,977][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.conversation.dao.QywxConversationDao }
+[INFO][2018-04-17 22:11:07,977][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewsitemDao }
+[INFO][2018-04-17 22:11:07,978][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxNewstemplateDao }
+[INFO][2018-04-17 22:11:07,978][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.qywx.sucai.dao.QywxTexttemplateDao }
+[INFO][2018-04-17 22:11:07,978][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayAccountDao }
+[INFO][2018-04-17 22:11:07,978][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.account.dao.AlipayMenuDao }
+[INFO][2018-04-17 22:11:07,979][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDao }
+[INFO][2018-04-17 22:11:07,979][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayAutoresponseDefaultDao }
+[INFO][2018-04-17 22:11:07,980][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzentityDao }
+[INFO][2018-04-17 22:11:07,981][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayGzuserinfoDao }
+[INFO][2018-04-17 22:11:07,982][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayMessagelogDao }
+[INFO][2018-04-17 22:11:07,982][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextContentDao }
+[INFO][2018-04-17 22:11:07,984][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.base.dao.AlipayReceivetextDao }
+[INFO][2018-04-17 22:11:07,984][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewsitemDao }
+[INFO][2018-04-17 22:11:07,984][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayNewstemplateDao }
+[INFO][2018-04-17 22:11:07,984][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.alipay.sucai.dao.AlipayTexttemplateDao }
+[ERROR][2018-04-17 22:11:09,197][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-04-17 22:11:09,255][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-04-17 22:11:11,467][org.hibernate.id.UUIDHexGenerator]HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+[WARN][2018-04-17 22:11:12,576][net.sf.ehcache.distribution.RMICacheManagerPeerListener]Explicitly setting the listener hostname to 'localhost' is not recommended. It will only work if all CacheManager peers are on the same machine.
+[INFO][2018-04-17 22:11:16,645][org.quartz.core.SchedulerSignalerImpl]Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[INFO][2018-04-17 22:11:16,645][org.quartz.core.QuartzScheduler]Quartz Scheduler v.1.6.2 created.
+[INFO][2018-04-17 22:11:16,648][org.quartz.simpl.RAMJobStore]RAMJobStore initialized.
+[INFO][2018-04-17 22:11:16,648][org.quartz.impl.StdSchedulerFactory]Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance.
+[INFO][2018-04-17 22:11:16,650][org.quartz.impl.StdSchedulerFactory]Quartz scheduler version: 1.6.2
+[INFO][2018-04-17 22:11:16,652][org.quartz.core.QuartzScheduler]JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@d19efa5
+[INFO][2018-04-17 22:11:18,381][org.jeecgframework.core.timer.DataBaseSchedulerFactoryBean]Starting Quartz Scheduler now
+[INFO][2018-04-17 22:11:18,381][org.quartz.core.QuartzScheduler]Scheduler schedulerFactory_$_NON_CLUSTERED started.

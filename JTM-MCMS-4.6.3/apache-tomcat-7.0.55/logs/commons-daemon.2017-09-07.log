@@ -1,0 +1,90 @@
+[2017-09-07 14:44:25] [info]  [10352] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 14:44:25] [info]  [10352] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2017-09-07 14:44:30] [info]  [10352] Service 'MsTomcat' installed
+[2017-09-07 14:44:30] [info]  [10352] Commons Daemon procrun finished
+[2017-09-07 14:44:30] [info]  [ 5516] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 14:44:30] [info]  [ 5516] Running 'MsTomcat' Service...
+[2017-09-07 14:44:30] [info]  [ 8968] Starting service...
+[2017-09-07 14:44:31] [info]  [ 8968] Service started in 1241 ms.
+[2017-09-07 14:47:16] [info]  [ 9192] Stopping service...
+[2017-09-07 14:47:19] [info]  [ 9192] Service stop thread completed.
+[2017-09-07 14:47:19] [info]  [ 5516] Run service finished.
+[2017-09-07 14:47:19] [info]  [ 5516] Commons Daemon procrun finished
+[2017-09-07 14:52:08] [info]  [ 5588] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 14:52:08] [info]  [ 5588] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2017-09-07 14:52:14] [info]  [ 5588] Service 'MsTomcat' installed
+[2017-09-07 14:52:14] [info]  [ 5588] Commons Daemon procrun finished
+[2017-09-07 14:52:14] [info]  [ 4572] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 14:52:14] [info]  [ 4572] Running 'MsTomcat' Service...
+[2017-09-07 14:52:14] [info]  [ 6440] Starting service...
+[2017-09-07 14:52:15] [info]  [ 6440] Service started in 1199 ms.
+[2017-09-07 14:56:03] [info]  [  308] Stopping service...
+[2017-09-07 14:56:05] [info]  [  308] Service stop thread completed.
+[2017-09-07 14:56:05] [info]  [ 4572] Run service finished.
+[2017-09-07 14:56:05] [info]  [ 4572] Commons Daemon procrun finished
+[2017-09-07 14:56:12] [info]  [ 6084] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 14:56:12] [info]  [ 6084] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2017-09-07 14:56:13] [info]  [ 6084] Service 'MsTomcat' installed
+[2017-09-07 14:56:13] [info]  [ 6084] Commons Daemon procrun finished
+[2017-09-07 14:56:13] [info]  [ 4292] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 14:56:13] [info]  [ 4292] Running 'MsTomcat' Service...
+[2017-09-07 14:56:13] [info]  [ 5424] Starting service...
+[2017-09-07 14:56:14] [info]  [ 5424] Service started in 1164 ms.
+[2017-09-07 15:04:51] [info]  [ 5240] Stopping service...
+[2017-09-07 15:04:54] [info]  [ 5240] Service stop thread completed.
+[2017-09-07 15:04:54] [info]  [ 4292] Run service finished.
+[2017-09-07 15:04:54] [info]  [ 4292] Commons Daemon procrun finished
+[2017-09-07 15:05:01] [info]  [ 6668] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 15:05:01] [info]  [ 6668] Deleting service...
+[2017-09-07 15:05:01] [error] [ 6668] 指定的服务未安装。
+[2017-09-07 15:05:01] [info]  [ 6668] Delete service finished.
+[2017-09-07 15:05:01] [error] [ 6668] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2017-09-07 15:05:01] [error] [ 6668] 指定的服务未安装。
+[2017-09-07 15:05:09] [info]  [ 4808] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 15:05:09] [info]  [ 4808] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2017-09-07 15:05:09] [info]  [ 4808] Service 'MsTomcat' installed
+[2017-09-07 15:05:09] [info]  [ 4808] Commons Daemon procrun finished
+[2017-09-07 15:05:09] [info]  [ 6180] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 15:05:09] [info]  [ 6180] Running 'MsTomcat' Service...
+[2017-09-07 15:05:09] [info]  [ 3492] Starting service...
+[2017-09-07 15:05:11] [info]  [ 3492] Service started in 1203 ms.
+[2017-09-07 15:17:49] [info]  [ 3160] Stopping service...
+[2017-09-07 15:17:52] [info]  [ 3160] Service stop thread completed.
+[2017-09-07 15:17:52] [info]  [ 6180] Run service finished.
+[2017-09-07 15:17:52] [info]  [ 6180] Commons Daemon procrun finished
+[2017-09-07 15:17:54] [info]  [  200] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 15:17:54] [info]  [  200] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2017-09-07 15:17:55] [info]  [  200] Service 'MsTomcat' installed
+[2017-09-07 15:17:55] [info]  [  200] Commons Daemon procrun finished
+[2017-09-07 15:17:55] [info]  [ 7064] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 15:17:55] [info]  [ 7064] Running 'MsTomcat' Service...
+[2017-09-07 15:17:55] [info]  [ 2224] Starting service...
+[2017-09-07 15:17:56] [info]  [ 2224] Service started in 1196 ms.
+[2017-09-07 15:25:53] [info]  [  328] Stopping service...
+[2017-09-07 15:25:56] [info]  [  328] Service stop thread completed.
+[2017-09-07 15:25:56] [info]  [ 7064] Run service finished.
+[2017-09-07 15:25:56] [info]  [ 7064] Commons Daemon procrun finished
+[2017-09-07 15:26:00] [info]  [ 7164] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 15:26:00] [info]  [ 7164] Deleting service...
+[2017-09-07 15:26:00] [error] [ 7164] 指定的服务未安装。
+[2017-09-07 15:26:00] [info]  [ 7164] Delete service finished.
+[2017-09-07 15:26:00] [error] [ 7164] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2017-09-07 15:26:00] [error] [ 7164] 指定的服务未安装。
+[2017-09-07 15:32:49] [info]  [ 3516] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 15:32:49] [info]  [ 3516] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2017-09-07 15:32:54] [info]  [ 3516] Service 'MsTomcat' installed
+[2017-09-07 15:32:54] [info]  [ 3516] Commons Daemon procrun finished
+[2017-09-07 15:32:54] [info]  [ 5692] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 15:32:54] [info]  [ 5692] Running 'MsTomcat' Service...
+[2017-09-07 15:32:54] [info]  [ 3316] Starting service...
+[2017-09-07 15:32:55] [info]  [ 3316] Service started in 1202 ms.
+[2017-09-07 15:34:26] [info]  [ 6356] Stopping service...
+[2017-09-07 15:34:28] [info]  [ 6356] Service stop thread completed.
+[2017-09-07 15:34:28] [info]  [ 5692] Run service finished.
+[2017-09-07 15:34:28] [info]  [ 5692] Commons Daemon procrun finished
+[2017-09-07 15:34:33] [info]  [ 1136] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2017-09-07 15:34:33] [info]  [ 1136] Deleting service...
+[2017-09-07 15:34:33] [error] [ 1136] 指定的服务未安装。
+[2017-09-07 15:34:33] [info]  [ 1136] Delete service finished.
+[2017-09-07 15:34:33] [error] [ 1136] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2017-09-07 15:34:33] [error] [ 1136] 指定的服务未安装。

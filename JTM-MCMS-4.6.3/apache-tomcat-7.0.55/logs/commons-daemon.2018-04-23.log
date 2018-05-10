@@ -1,0 +1,13 @@
+[2018-04-23 17:31:50] [info]  [ 5880] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-04-23 17:31:50] [info]  [ 5880] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-04-23 17:32:11] [info]  [ 5880] Service 'MsTomcat' installed
+[2018-04-23 17:32:11] [info]  [ 5880] Commons Daemon procrun finished
+[2018-04-23 17:32:11] [info]  [ 6096] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-04-23 17:32:11] [info]  [ 6096] Running 'MsTomcat' Service...
+[2018-04-23 17:32:11] [info]  [ 6140] Starting service...
+[2018-04-23 17:32:13] [info]  [ 6140] Service started in 1250 ms.
+[2018-04-23 20:51:30] [info]  [ 6404] Console SHUTDOWN event signaled
+[2018-04-23 20:51:30] [info]  [ 6404] Stopping service...
+[2018-04-23 20:51:31] [info]  [ 6404] Service stop thread completed.
+[2018-04-23 20:51:31] [info]  [ 6096] Run service finished.
+[2018-04-23 20:51:31] [info]  [ 6096] Commons Daemon procrun finished

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jeecg-p3-biz-alipay-single" />
+        <module name="jeecg-p3-biz-qywx" />
+        <module name="jeewx-os" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jeecg-p3-biz-alipay-single" target="1.6" />
+      <module name="jeecg-p3-biz-qywx" target="1.6" />
+      <module name="jeewx-os" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

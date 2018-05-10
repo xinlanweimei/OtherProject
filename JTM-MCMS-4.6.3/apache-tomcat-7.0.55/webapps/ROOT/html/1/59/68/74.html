@@ -1,0 +1,230 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>MCMS-OPEN</title>
+    <link rel="stylesheet" href="http://localhost:8181/templets/1/mooc//css/list.css">
+    <link rel="stylesheet" href="http://localhost:8181/templets/1/mooc//css/detail.css">
+    <script type="text/javascript" src="http://localhost:8181/templets/1/mooc//js/jquery-1.9.1.min.js"></script>
+    <script src="http://localhost:8181/templets/1/mooc//js/user.js" type="text/javascript"></script>
+</head>
+<body>
+  
+
+    <div class="navbar navbar-default" style="background-color: #fff;" id="navbar">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand icon-logo" href="http://localhost:8181/html/1"  title="铭飞科技">铭飞科技</a>
+          <div id="bdadm-1019183" class="navbar-slogan"></div>
+          <!--搜索-->
+          <form id="searchDataForm" class="navbar-form navbar-right" action="http://localhost:8181/cms/1/search.do" method="post">
+            <div class="form-group">
+            <!--表单的name值不能改变-->	 
+              <input class="form-control"  type="text" name="basic_title" maxlength="50" placeholder="搜索课程、笔记、帖子、文章"  />
+            </div>
+            <input type="submit"  class="btn icon-search"   value="搜索">
+          </form>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="nav navbar-nav navbar-right" id="unlogined">
+            <li class="navbar-sign">
+              <a href="http://localhost:8181/register.do" >注册</a>
+            </li>
+            <li class="navbar-login">
+              <a href="http://localhost:8181/login.do">登录</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="nav nav-main" id="navMain">
+        <ul class="container">
+          <li class="active"><a href="http://localhost:8181/html/1">首页</a></li>
+          <li><a href="http://localhost:8181/html/1/61/index.html">课程</a></li>
+          <li><a href="http://localhost:8181/html/1/59/index.html">专题</a></li>
+          <li><a href="http://localhost:8181/html/1/106/index.html">演讲</a></li>
+<!--          <li><a href="javascript:void(0);">社区</a></li>   
+-->
+        </ul>
+    </div>
+     <!--登录后右上角-->
+    <ul class="login-corner" style="display:none">            
+      <!--li class="navbar-notice" id="navbarNotice">                 
+          <a href="javascript:void 0;" >
+            <span class="mooc-notice"></span><span class="navbar-notice-txt">通知</span>
+          </a>          
+      </li-->             
+      <li class="navbar-settings dropdown" id="navbarSettings">             
+        <a class="dropdown-toggle" href="javascript:void 0;">
+          <img width="30" height="30" src="http://localhost:8181/templets/1/mooc//images/face.png" alt="">
+          <span class="navbar-settings-id"></span><span class="caret"></span>
+        </a>                 
+        <ul class="dropdown-menu" id="settingsBlock">                     
+          <li style="    background-color: #fff;">
+            <a href="http://localhost:8181/people/center.do" >个人主页</a>
+          </li>                                                                               
+          <li><a class="quitLogin" style="cursor: pointer;">退出</a></li>                 
+        </ul>             
+      </li>         
+    </ul>
+    
+ 
+  <div class="wrap">
+    <div class="main">
+      <div class="block">
+        <div class="content">
+  		    <div class="content-th">
+  		   		<h1 id="contentTitle">国内java开源bbs系统</h1>
+		      </div>
+  		    <div class="post-info">     
+    		       <p class="post-time">2016-03-27 09:38</p>
+  		    </div>
+  		    <div class="content-txt  gbbcode-content" id="contentTxt">
+    		   		 <h1 style="box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-weight: 500; line-height: 43.2px; color: rgb(51, 51, 51); white-space: normal; padding: 0px; ">铭飞MCMS内容管理系统完整开源版J2EE代码</h1><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">当前版本:5.4.2 铭飞MS官网:http://ms.mingsoft.net官网同时提供一键运行版本下载，请步移官网....</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; font-size: 0.95em; color: rgb(102, 102, 102); line-height: 1.8em; font-family: 微软雅黑, &#39;Open Sans&#39;, sans-serif; white-space: normal;"><span id="OSC_h1_2" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span><span style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span></p><h1 style="box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-weight: 500; line-height: 43.2px; color: rgb(51, 51, 51); white-space: normal; padding: 0px;"><a href="http://git.oschina.net/mingSoft/MCMS#特点" rel="nofollow" style="box-sizing: border-box; color: rgb(255, 131, 115); text-decoration: none; -webkit-transition: all 0.5s; transition: all 0.5s; padding: 0px; margin: 0px; outline: 0px; font-size: 12px; background-color: transparent;"></a>特点</h1><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">免费开源:纯Java开发，MS开发团队承诺将MCMS内容系统永久完整开源;</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">终端统一: 铭飞MCMS支持PC与MOBILE皮肤定制,同时使用MS团队移动JS插件,轻松实现手机多屏幕适配,想想看你发布的信息第一时间在PC上展示又能在手机上展示,这是件多么幸福的事情,数据统一、平台统一、终端统一是MS团队一直在努力的方向;</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">扩展性:以铭飞MCMS为核心,MS官网提供第三方插件安装,最新的插件用户可以通过更新功能获得,同时MS也鼓励并支持第三方开发人员发布优质的插件;</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">更新升级: 铭飞MCMS提供了行业内最完美的升级方案,从此升级无需手动下载复制粘贴,一切完全由MS升级插件无缝完成;</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">文档手册:铭飞不断向外部公布最新文档，如二次开发手册、标签使用手册,减轻用户学习成本;</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">站群：MCMS支持站群，只需在服务器上架设一套铭飞MCMS就可以创建多个个网站，并且网站之间的数据是独立存在，很大程度降低了维护成本，与服务器资源的开销；</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">其他：html静态生成、标签式建站</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">技术支持:提永久升级服务技术交流群,不定期会升级系统，开发可以关注后台的更新板块；</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; font-size: 0.95em; color: rgb(102, 102, 102); line-height: 1.8em; font-family: 微软雅黑, &#39;Open Sans&#39;, sans-serif; white-space: normal; "><span id="OSC_h1_3" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span><span style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span></p><h1 style="box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-weight: 500; line-height: 43.2px; color: rgb(51, 51, 51); white-space: normal; padding: 0px;"><a href="http://git.oschina.net/mingSoft/MCMS#面向对象" rel="nofollow" style="box-sizing: border-box; color: rgb(255, 131, 115); text-decoration: none; -webkit-transition: all 0.5s; transition: all 0.5s; padding: 0px; margin: 0px; outline: 0px; font-size: 12px; background-color: transparent;"></a>面向对象</h1><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">铭飞MCMS是企业在创立初期很好的技术基础框架，加快公司项目开发进度，当然也可以对现有的系统进行升级；</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">个人开发者也可以使用MCMS承接外包项目；</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">初学JAVA的同学可以下载源代码来进行学习交流；</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; font-size: 0.95em; color: rgb(102, 102, 102); line-height: 1.8em; font-family: 微软雅黑, &#39;Open Sans&#39;, sans-serif; white-space: normal;"><span id="OSC_h1_4" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span><span style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span></p><h1 style="box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-weight: 500; line-height: 43.2px; color: rgb(51, 51, 51); white-space: normal; padding: 0px;"><a href="http://git.oschina.net/mingSoft/MCMS#开发框及语言" rel="nofollow" style="box-sizing: border-box; color: rgb(255, 131, 115); text-decoration: none; -webkit-transition: all 0.5s; transition: all 0.5s; padding: 0px; margin: 0px; outline: 0px; font-size: 12px; background-color: transparent;"></a>开发框及语言</h1><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">铭飞MCMS(铭飞内容管理系统)是一款支持不同平台、不同终端并且支持多站点的内容管理系统，</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">· SpringMVC4+Spring4+MyBatis3+Freemarker技术架构</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">· 基于java技术开发，继承其强大、稳定、安全、高效、跨平台等多方面的优点；</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">· 标签化建站，只要你懂html就能建站；</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">· 完全生成全站静态页面；</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">· 可自定义路径结构，全面提高页面访问速度；</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">有人说铭飞MCMS是全国唯一完整开源的J2EE版本系统！团队希望看到更多的优秀好用的开源系统，我们一直会努力下去！</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; font-size: 0.95em; color: rgb(102, 102, 102); line-height: 1.8em; font-family: 微软雅黑, &#39;Open Sans&#39;, sans-serif; white-space: normal; "><span id="OSC_h1_5" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span><span style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span></p><h1 style="box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-weight: 500; line-height: 43.2px; color: rgb(51, 51, 51); white-space: normal; padding: 0px; "><a href="http://git.oschina.net/mingSoft/MCMS#运行环境" rel="nofollow" style="box-sizing: border-box; color: rgb(255, 131, 115); text-decoration: none; -webkit-transition: all 0.5s; transition: all 0.5s; padding: 0px; margin: 0px; outline: 0px; font-size: 12px; background-color: transparent;"></a>运行环境</h1><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">原则上支持全系列JAVA运行环境；</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">WEB服务器：Weblogic、Tomcat、WebSphere、JBoss 等</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">数据库服务器：Mysql等</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">操作系统：Windows、Linux、Unix 等</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; font-size: 0.95em; color: rgb(102, 102, 102); line-height: 1.8em; font-family: 微软雅黑, &#39;Open Sans&#39;, sans-serif; white-space: normal;"><span id="OSC_h1_6" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span><span style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span></p><h1 style="box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-weight: 500; line-height: 43.2px; color: rgb(51, 51, 51); white-space: normal; padding: 0px;"><a href="http://git.oschina.net/mingSoft/MCMS#开发环境" rel="nofollow" style="box-sizing: border-box; color: rgb(255, 131, 115); text-decoration: none; -webkit-transition: all 0.5s; transition: all 0.5s; padding: 0px; margin: 0px; outline: 0px; font-size: 12px; background-color: transparent;"></a>开发环境</h1><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">建议开发者使用一下环境，这样避免版本带来的冲突</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">IDE:eclipse、MyEclise</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">DB:Mysql5.5</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">JDK:JAVA 7、J2EE6</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; font-size: 0.95em; color: rgb(102, 102, 102); line-height: 1.8em; font-family: 微软雅黑, &#39;Open Sans&#39;, sans-serif; white-space: normal;"><span id="OSC_h1_7" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span><span style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span></p><h1 style="box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-weight: 500; line-height: 43.2px; color: rgb(51, 51, 51); white-space: normal; padding: 0px;"><a href="http://git.oschina.net/mingSoft/MCMS#重要文件说明" rel="nofollow" style="box-sizing: border-box; color: rgb(255, 131, 115); text-decoration: none; -webkit-transition: all 0.5s; transition: all 0.5s; padding: 0px; margin: 0px; outline: 0px; font-size: 12px; background-color: transparent;"></a>重要文件说明</h1><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">数据库连接文件: config.properties</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">数据库文件：doc/db-mcms-open.sql</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">数据库编码：UTF-8</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">模板文件：templets/1549/mooc</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">后台访问路径：</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">http://+ip地址（或localhost）+tomcat端口+项目发布名/ms/login.do</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">如果出现无法访问的情况输入</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">http://+ip地址（或localhost）+tomcat端口+项目发布名/initApp进行初始化</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">账号:msopen</p><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">密码:msopen</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; font-size: 0.95em; color: rgb(102, 102, 102); line-height: 1.8em; font-family: 微软雅黑, &#39;Open Sans&#39;, sans-serif; white-space: normal; "><span id="OSC_h1_8" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span><span style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span></p><h1 style="box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-weight: 500; line-height: 43.2px; color: rgb(51, 51, 51); white-space: normal; padding: 0px; "><a href="http://git.oschina.net/mingSoft/MCMS#代码部署与常见问题" rel="nofollow" style="box-sizing: border-box; color: rgb(255, 131, 115); text-decoration: none; -webkit-transition: all 0.5s; transition: all 0.5s; padding: 0px; margin: 0px; outline: 0px; font-size: 12px; background-color: transparent;"></a>代码部署与常见问题</h1><p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 15px; font-size: 15px; color: rgba(0, 0, 0, 0.8); line-height: 1.33; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: Lato, &#39;Helvetica Neue&#39;, &#39;Microsoft YaHei&#39;, Arial, Helvetica, sans-serif; background-color: rgb(250, 250, 250);">铭飞MS官方开发社区文档&nbsp;<a href="http://ms.mingsoft.net/mbbs/12998/detail.do" target="_self" rel="nofollow" style="box-sizing: border-box; color: rgb(255, 131, 115); text-decoration: none; -webkit-transition: all 0.5s; transition: all 0.5s; padding: 0px; margin: 0px; outline: 0px; font-size: 12px; background-color: transparent;">http://ms.mingsoft.net/mbbs/12998/detail.do</a></p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; font-size: 0.95em; color: rgb(102, 102, 102); line-height: 1.8em; font-family: 微软雅黑, &#39;Open Sans&#39;, sans-serif; white-space: normal; "><span id="OSC_h1_9" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span><span style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-size: 12.5px; line-height: 22.5px;"></span></p><h1 style="box-sizing: border-box; margin: 20px 0px 10px; font-size: 24px; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; font-weight: 500; line-height: 43.2px; color: rgb(51, 51, 51); white-space: normal; padding: 0px; ">系统美图</h1><p style="box-sizing: border-box; margin-top: 8px; margin-bottom: 8px; font-size: 12.5px; color: rgb(51, 51, 51); line-height: 22.5px; white-space: normal; padding: 0px; letter-spacing: 0.5px; word-wrap: break-word; word-break: break-all; font-family: &#39;Microsoft YaHei&#39;, Verdana, sans-serif, 宋体; "><img src="/upload/editor/1569/1461657686925.jpg" title="1461657686925.jpg" alt="1461657686925.jpg" width="700" height="375" style="width: 700px; height: 375px;" border="0" vspace="0"/></p><p><br/></p>
+  		    </div>               
+  		  </div>
+        <div id="comments" class="cmts"></div>
+      </div>
+      <div class="metPage">
+        <p>上一篇：<a href="http://localhost:8181/html/1//59/68/73.html">国内java开源商城系统</a></p>
+        <p>下一篇：<a href="http://localhost:8181/html/1//59/68/178.html">价值源自分享</a></p>
+      </div>
+    </div>
+    <div class="side">
+    <!--
+      <a href="http://localhost:8181/html/1/26/index.html" class="side-back" data-gaevent="post-back:v3.0.0.0:academy">
+        <span class="side-back-arrow"></span>社区首页
+      </a>
+    -->
+      <div class="discuss_hot discuss_box">
+        <h2 class="title-b">最新推荐</h2>
+        <ul class="discuss_list">
+          
+          <li style="height:auto"> 
+          	<a href="http://localhost:8181/html/1/59/68/179.html" data-gaevent="course-post-title:v3.0.0.0:academy">铭飞商城MStore——价值源自分享</a>
+          	<p>
+               <span class="discuss-time">2016-04</span>
+               <a class="discuss-author" style="color:#1caaea" href="http://localhost:8181/html/1/59/68/179.html" >MS</a>
+            </p>
+          </li>
+          
+          <li style="height:auto"> 
+          	<a href="http://localhost:8181/html/1/59/68/178.html" data-gaevent="course-post-title:v3.0.0.0:academy">价值源自分享</a>
+          	<p>
+               <span class="discuss-time">2016-04</span>
+               <a class="discuss-author" style="color:#1caaea" href="http://localhost:8181/html/1/59/68/178.html" >MS</a>
+            </p>
+          </li>
+          
+          <li style="height:auto"> 
+          	<a href="http://localhost:8181/html/1/59/70/177.html" data-gaevent="course-post-title:v3.0.0.0:academy">国内开源 java cms，铭飞MCms</a>
+          	<p>
+               <span class="discuss-time">2016-04</span>
+               <a class="discuss-author" style="color:#1caaea" href="http://localhost:8181/html/1/59/70/177.html" >MS</a>
+            </p>
+          </li>
+          
+          <li style="height:auto"> 
+          	<a href="http://localhost:8181/html/1/59/68/74.html" data-gaevent="course-post-title:v3.0.0.0:academy">国内java开源bbs系统</a>
+          	<p>
+               <span class="discuss-time">2016-03</span>
+               <a class="discuss-author" style="color:#1caaea" href="http://localhost:8181/html/1/59/68/74.html" >MS</a>
+            </p>
+          </li>
+          
+          <li style="height:auto"> 
+          	<a href="http://localhost:8181/html/1/59/68/73.html" data-gaevent="course-post-title:v3.0.0.0:academy">国内java开源商城系统</a>
+          	<p>
+               <span class="discuss-time">2016-03</span>
+               <a class="discuss-author" style="color:#1caaea" href="http://localhost:8181/html/1/59/68/73.html" >MS</a>
+            </p>
+          </li>
+          
+          <li style="height:auto"> 
+          	<a href="http://localhost:8181/html/1/59/68/72.html" data-gaevent="course-post-title:v3.0.0.0:academy">2016年CMS开源系统排行榜</a>
+          	<p>
+               <span class="discuss-time">2016-03</span>
+               <a class="discuss-author" style="color:#1caaea" href="http://localhost:8181/html/1/59/68/72.html" >MS</a>
+            </p>
+          </li>
+           
+        </ul>
+      </div>
+      <div id="bdadm-1030252" class="side-adv"></div>
+    </div>
+  </div>
+      <div class="bottom">
+        <div class="container">
+            <ul class="nav bottom-about">
+                <li><a href="http://localhost:8181/html/1/53/133/index.html"   target="_blank">合作代理</a></li>
+                <li><a href="http://localhost:8181/html/1/53/134/index.html"  target="_blank" >关于我们</a></li>
+                <li><a href="http://localhost:8181/html/1/53/135/index.html" target="_blank">产品服务</a></li>
+                <li><a href="" target="_blank" >去官网看</a></li>
+                <li><a href="" target="_blank" >联系我们</a></li>
+            </ul>
+            <div class="nav bottom-follow">
+                <p>关注我们，随时掌握全球最新好课</p>
+                <img src="http://localhost:8181/templets/1/mooc//images/erweima.jpg" style="postion:relative;top:5px" width="90" height="90" />
+            </div>
+            <p class="bottom-info">Copyright @2012-2015 景德镇铭飞科技有限公司 版权所有<span class="bottom-part">@铭飞科技</span></p>
+        </div>
+  </div>
+   
+	<script type="text/javascript" src="http://localhost:8181/templets/1/mooc//js/jquery-1.9.1.min.js"></script>    
+    <script src="http://localhost:8181/templets/1/mooc//js/jquery.cookies.2.2.0.js" type="text/javascript"></script> 
+    <script src="http://cdn.mingsoft.net/plugins/seajs/3.0.0/sea.js"></script>
+    <script src="http://cdn.mingsoft.net/model/1.0.0/main.min.js"></script>
+    <script>ms.config({
+		    	base:"http://localhost:8181",
+		    
+			    filter: {
+			  		people:{
+			  			loginUrl:'http://localhost:8181'
+			  		}
+			    }
+		  	});
+    </script>
+  
+   <script>  
+    //登录后显示用户名
+    $(function(){    
+      //退出登录
+      ms.load(["ms","ms.people"],function(ms,people) {
+          //获取用户是否登陆
+          people.checkLoginStatus(function(json){
+            if(json.result){
+              var noticeHTML = $("#navbarNotice");
+              var settingHTML = $("#navbarSettings");
+              $(".navbar-sign").html(noticeHTML);
+              $(".navbar-login").html(settingHTML);
+              $(".quitLogin").click(function(){
+                $.cookies.del('PEOPLE_COOKIE');
+                people.people.quit();
+                location.href="http://localhost:8181";
+              });
+
+          }
+        })
+      })
+   });
+    //导航栏跳转样式保留
+    $(document).ready(function(){  
+      $(".nav ul li a").each(function(){  
+          $this = $(this);  
+          if($this[0].href==String(window.location)){  
+              $this.parent("li").addClass("showColor");  
+          }  
+      });  
+    });
+    //点击显示用户下拉菜单
+    $(".dropdown-toggle").click(function(){
+      $("#settingsBlock").css("width","88px");
+      $("#settingsBlock").toggle();              
+    });
+</script>
+   
+ 
+  
+ 
+</body>
+</html>

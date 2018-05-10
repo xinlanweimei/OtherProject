@@ -1,0 +1,24 @@
+[2018-03-23 17:18:12] [info]  [ 4820] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-03-23 17:18:12] [info]  [ 4820] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-03-23 17:18:25] [info]  [ 4820] Service 'MsTomcat' installed
+[2018-03-23 17:18:25] [info]  [ 4820] Commons Daemon procrun finished
+[2018-03-23 17:18:26] [info]  [ 3972] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-03-23 17:18:26] [info]  [ 3972] Running 'MsTomcat' Service...
+[2018-03-23 17:18:26] [info]  [ 2016] Starting service...
+[2018-03-23 17:18:27] [info]  [ 2016] Service started in 1198 ms.
+[2018-03-23 17:26:54] [info]  [ 3216] Stopping service...
+[2018-03-23 17:27:03] [info]  [ 3216] Service stop thread completed.
+[2018-03-23 17:27:03] [info]  [ 3972] Run service finished.
+[2018-03-23 17:27:03] [info]  [ 3972] Commons Daemon procrun finished
+[2018-03-23 17:27:12] [info]  [ 3156] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-03-23 17:27:12] [info]  [ 3156] Service MsTomcat name Apache Tomcat 7.0 MsTomcat
+[2018-03-23 17:27:12] [info]  [ 3156] Service 'MsTomcat' installed
+[2018-03-23 17:27:12] [info]  [ 3156] Commons Daemon procrun finished
+[2018-03-23 17:27:13] [info]  [ 3956] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2018-03-23 17:27:13] [info]  [ 3956] Running 'MsTomcat' Service...
+[2018-03-23 17:27:13] [info]  [ 7088] Starting service...
+[2018-03-23 17:27:14] [info]  [ 7088] Service started in 1177 ms.
+[2018-03-23 17:30:05] [info]  [ 6036] Stopping service...
+[2018-03-23 17:30:13] [info]  [ 6036] Service stop thread completed.
+[2018-03-23 17:30:13] [info]  [ 3956] Run service finished.
+[2018-03-23 17:30:13] [info]  [ 3956] Commons Daemon procrun finished

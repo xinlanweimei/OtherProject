@@ -1,0 +1,53 @@
+0    INFO  [2016-07-01 13:48:28]  Root WebApplicationContext: initialization started
+141  DEBUG [2016-07-01 13:48:28]  Adding [servletConfigInitParams] PropertySource with lowest search precedence
+141  DEBUG [2016-07-01 13:48:28]  Adding [servletContextInitParams] PropertySource with lowest search precedence
+157  DEBUG [2016-07-01 13:48:28]  Adding [jndiProperties] PropertySource with lowest search precedence
+157  DEBUG [2016-07-01 13:48:28]  Adding [systemProperties] PropertySource with lowest search precedence
+157  DEBUG [2016-07-01 13:48:28]  Adding [systemEnvironment] PropertySource with lowest search precedence
+157  DEBUG [2016-07-01 13:48:28]  Initialized StandardServletEnvironment with PropertySources [servletConfigInitParams,servletContextInitParams,jndiProperties,systemProperties,systemEnvironment]
+172  DEBUG [2016-07-01 13:48:28]  Replacing [servletContextInitParams] PropertySource with [servletContextInitParams]
+172  INFO  [2016-07-01 13:48:28]  Refreshing Root WebApplicationContext: startup date [Fri Jul 01 13:48:28 CST 2016]; root of context hierarchy
+313  DEBUG [2016-07-01 13:48:29]  Adding [systemProperties] PropertySource with lowest search precedence
+313  DEBUG [2016-07-01 13:48:29]  Adding [systemEnvironment] PropertySource with lowest search precedence
+313  DEBUG [2016-07-01 13:48:29]  Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+329  DEBUG [2016-07-01 13:48:29]  Looking for matching resources in directory tree [E:\JTM-MCMS-4.5.5\apache-tomcat-7.0.55\lib]
+329  DEBUG [2016-07-01 13:48:29]  Searching directory [E:\JTM-MCMS-4.5.5\apache-tomcat-7.0.55\lib] for files matching pattern [E:/JTM-MCMS-4.5.5/apache-tomcat-7.0.55/lib/spring-*.xml]
+344  DEBUG [2016-07-01 13:48:29]  Resolved location pattern [classpath:spring-*.xml] to resources []
+344  DEBUG [2016-07-01 13:48:29]  Loaded 0 bean definitions from location pattern [classpath:spring-*.xml]
+344  DEBUG [2016-07-01 13:48:29]  Bean factory for Root WebApplicationContext: org.springframework.beans.factory.support.DefaultListableBeanFactory@1897acf: defining beans []; root of factory hierarchy
+438  DEBUG [2016-07-01 13:48:29]  Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@137bd5e]
+454  DEBUG [2016-07-01 13:48:29]  Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@12725cf]
+454  DEBUG [2016-07-01 13:48:29]  Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@16fcb17]
+454  DEBUG [2016-07-01 13:48:29]  Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1897acf: defining beans []; root of factory hierarchy
+454  DEBUG [2016-07-01 13:48:29]  Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@175670a]
+454  DEBUG [2016-07-01 13:48:29]  Returning cached instance of singleton bean 'lifecycleProcessor'
+469  DEBUG [2016-07-01 13:48:29]  Searching for key 'spring.liveBeansView.mbeanDomain' in [servletConfigInitParams]
+469  DEBUG [2016-07-01 13:48:29]  Searching for key 'spring.liveBeansView.mbeanDomain' in [servletContextInitParams]
+469  DEBUG [2016-07-01 13:48:29]  Searching for key 'spring.liveBeansView.mbeanDomain' in [jndiProperties]
+469  DEBUG [2016-07-01 13:48:29]  Looking up JNDI object with name [java:comp/env/spring.liveBeansView.mbeanDomain]
+469  DEBUG [2016-07-01 13:48:29]  Converted JNDI name [java:comp/env/spring.liveBeansView.mbeanDomain] not found - trying original name [spring.liveBeansView.mbeanDomain]. javax.naming.NameNotFoundException: Name [spring.liveBeansView.mbeanDomain] is not bound in this Context. Unable to find [spring.liveBeansView.mbeanDomain].
+469  DEBUG [2016-07-01 13:48:29]  Looking up JNDI object with name [spring.liveBeansView.mbeanDomain]
+469  DEBUG [2016-07-01 13:48:29]  JNDI lookup for name [spring.liveBeansView.mbeanDomain] threw NamingException with message: Name [spring.liveBeansView.mbeanDomain] is not bound in this Context. Unable to find [spring.liveBeansView.mbeanDomain].. Returning null.
+469  DEBUG [2016-07-01 13:48:29]  Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+469  DEBUG [2016-07-01 13:48:29]  Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+469  DEBUG [2016-07-01 13:48:29]  Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+469  DEBUG [2016-07-01 13:48:29]  Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+469  INFO  [2016-07-01 13:48:29]  Root WebApplicationContext: initialization completed in 469 ms
+516  DEBUG [2016-07-01 13:48:29]  Adding [servletConfigInitParams] PropertySource with lowest search precedence
+516  DEBUG [2016-07-01 13:48:29]  Adding [servletContextInitParams] PropertySource with lowest search precedence
+516  DEBUG [2016-07-01 13:48:29]  Adding [jndiProperties] PropertySource with lowest search precedence
+516  DEBUG [2016-07-01 13:48:29]  Adding [systemProperties] PropertySource with lowest search precedence
+516  DEBUG [2016-07-01 13:48:29]  Adding [systemEnvironment] PropertySource with lowest search precedence
+516  DEBUG [2016-07-01 13:48:29]  Initialized StandardServletEnvironment with PropertySources [servletConfigInitParams,servletContextInitParams,jndiProperties,systemProperties,systemEnvironment]
+516  DEBUG [2016-07-01 13:48:29]  Initializing filter 'shiroFilter'
+610  DEBUG [2016-07-01 13:48:29]  Adding [servletConfigInitParams] PropertySource with lowest search precedence
+610  DEBUG [2016-07-01 13:48:29]  Adding [servletContextInitParams] PropertySource with lowest search precedence
+610  DEBUG [2016-07-01 13:48:29]  Adding [jndiProperties] PropertySource with lowest search precedence
+610  DEBUG [2016-07-01 13:48:29]  Adding [systemProperties] PropertySource with lowest search precedence
+610  DEBUG [2016-07-01 13:48:29]  Adding [systemEnvironment] PropertySource with lowest search precedence
+610  DEBUG [2016-07-01 13:48:29]  Initialized StandardServletEnvironment with PropertySources [servletConfigInitParams,servletContextInitParams,jndiProperties,systemProperties,systemEnvironment]
+610  DEBUG [2016-07-01 13:48:29]  Initializing filter 'encodingFilter'
+610  DEBUG [2016-07-01 13:48:29]  Filter 'encodingFilter' configured successfully
+625  INFO  [2016-07-01 13:48:29]  Closing Root WebApplicationContext: startup date [Fri Jul 01 13:48:28 CST 2016]; root of context hierarchy
+625  DEBUG [2016-07-01 13:48:29]  Returning cached instance of singleton bean 'lifecycleProcessor'
+625  DEBUG [2016-07-01 13:48:29]  Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1897acf: defining beans []; root of factory hierarchy
